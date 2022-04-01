@@ -1,0 +1,1424 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机运转不平稳，怠速时尤甚，运转无力，加速困难，油耗增加，排气管发出有节奏的突突声，有时伴有回火、放炮现象;节气门突然开大加速时，发动机转速不能及时升高，反而下降、熄火，并伴有爆燃声、排气管发出突突声或回火声。",
+          "id": "A1405214"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 0,
+            "end": 1,
+            "type": "故障现象",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机运转不平稳，怠速时尤甚，运转无力，加速困难，油耗增加，排气管发出有节奏的突突声，有时伴有回火、放炮现象;节气门突然开大加速时，发动机转速不能及时升高，反而下降、熄火，并伴有爆燃声、排气管发出突突声或回火声。",
+              "id": "A1405214"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "火",
+          "specific": "点火过迟、高压火弱"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 0,
+            "end": 2,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "火",
+              "specific": "点火过迟、高压火弱"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "汽油",
+          "specific": "汽油质量差、汽油压力不足"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 0,
+            "end": 3,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "汽油",
+              "specific": "汽油质量差、汽油压力不足"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "喷油器",
+          "specific": "喷油器工作不良、油压调节器损坏"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 0,
+            "end": 4,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "喷油器",
+              "specific": "喷油器工作不良、油压调节器损坏"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "堵塞",
+          "specific": "空气滤清器脏堵、三元催化器或排气消声器堵塞"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 0,
+            "end": 5,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "堵塞",
+              "specific": "空气滤清器脏堵、三元催化器或排气消声器堵塞"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "进气系统",
+          "specific": "进气系统漏气"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 0,
+            "end": 6,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "进气系统",
+              "specific": "进气系统漏气"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "EGR",
+          "specific": "EGR系统工作不正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 0,
+            "end": 7,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "EGR",
+              "specific": "EGR系统工作不正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "传感器",
+          "specific": "氧传感器、爆燃传感器、节气门位置传感器、曲轴位置传感器及凸轮轴位置传感器信号失准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 0,
+            "end": 8,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "传感器",
+              "specific": "氧传感器、爆燃传感器、节气门位置传感器、曲轴位置传感器及凸轮轴位置传感器信号失准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "空气流量传感器",
+          "specific": "空气流量传感器、进气压力传感器信号不良"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 0,
+            "end": 9,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "空气流量传感器",
+              "specific": "空气流量传感器、进气压力传感器信号不良"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 0,
+            "end": 10,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "缺杠",
+          "specific": "个别缸不工作"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 0,
+            "end": 11,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "缺杠",
+              "specific": "个别缸不工作"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "ECU故障",
+          "specific": "ECU有故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 0,
+            "end": 12,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "ECU故障",
+              "specific": "ECU有故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "拆下气门室盖"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 12,
+            "start": 10,
+            "end": 13,
+            "type": "维修过程1",
+            "properties": {}
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "拆下气门室盖"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "使1杠活塞在上止点位置凸轮轴链轮上的UP标记A应在顶部，并且凸轮轴链轮上的TDC凹槽B应与汽缸盖的顶部边缘对准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 13,
+            "start": 10,
+            "end": 14,
+            "type": "维修过程2",
+            "properties": {}
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "使1杠活塞在上止点位置凸轮轴链轮上的UP标记A应在顶部，并且凸轮轴链轮上的TDC凹槽B应与汽缸盖的顶部边缘对准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "选择厚度合适的塞尺，按照顺序检测进、排气门间隙"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 14,
+            "start": 10,
+            "end": 15,
+            "type": "维修过程3",
+            "properties": {}
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "选择厚度合适的塞尺，按照顺序检测进、排气门间隙"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "将塞尺A插入调节螺钉与1号缸上的气门杆端部之间，并前、后滑动，应该感觉到轻微的拖滞"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 15,
+            "start": 10,
+            "end": 16,
+            "type": "维修过程4",
+            "properties": {}
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "将塞尺A插入调节螺钉与1号缸上的气门杆端部之间，并前、后滑动，应该感觉到轻微的拖滞"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "如果感觉到拖滞太大或太小，则松开锁紧螺母并转动调整相应螺钉，直到塞尺的拖滞合适"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 16,
+            "start": 10,
+            "end": 17,
+            "type": "维修过程5",
+            "properties": {}
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "如果感觉到拖滞太大或太小，则松开锁紧螺母并转动调整相应螺钉，直到塞尺的拖滞合适"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "紧固锁紧螺母并重新检查间隙"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 17,
+            "start": 10,
+            "end": 18,
+            "type": "维修过程6",
+            "properties": {}
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "紧固锁紧螺母并重新检查间隙"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "紧固锁紧螺母至规定力矩，并重新检查气门间隙规定力矩：（7*0.75） 14N·m在螺母的螺纹上涂抹新的发动机机油。如有必要，重复调整"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 18,
+            "start": 10,
+            "end": 19,
+            "type": "维修过程7",
+            "properties": {}
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "紧固锁紧螺母至规定力矩，并重新检查气门间隙规定力矩：（7*0.75） 14N·m在螺母的螺纹上涂抹新的发动机机油。如有必要，重复调整"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "顺时针旋转曲轴，将凸轮轴链轮上的3号活塞TDC凹槽A与汽缸盖的顶部边缘对准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 19,
+            "start": 10,
+            "end": 20,
+            "type": "维修过程8",
+            "properties": {}
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "顺时针旋转曲轴，将凸轮轴链轮上的3号活塞TDC凹槽A与汽缸盖的顶部边缘对准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查并调整3号气缸上的气门间隙，方法同上"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 20,
+            "start": 10,
+            "end": 21,
+            "type": "维修过程9",
+            "properties": {}
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查并调整3号气缸上的气门间隙，方法同上"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "顺时针旋转曲轴，将凸轮轴链轮上的4号活塞TDC槽A与汽缸盖的顶部边缘对准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 21,
+            "start": 10,
+            "end": 22,
+            "type": "维修过程10",
+            "properties": {}
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "顺时针旋转曲轴，将凸轮轴链轮上的4号活塞TDC槽A与汽缸盖的顶部边缘对准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "顺时针旋转曲轴，将凸轮轴链轮上的2号活塞TDC槽A与汽缸盖的顶部边缘对准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 22,
+            "start": 10,
+            "end": 23,
+            "type": "维修过程11",
+            "properties": {}
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "顺时针旋转曲轴，将凸轮轴链轮上的2号活塞TDC槽A与汽缸盖的顶部边缘对准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "如有必要，检查并调整2号气缸上的气门间隙，方法同上"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 23,
+            "start": 10,
+            "end": 24,
+            "type": "维修过程12",
+            "properties": {}
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "如有必要，检查并调整2号气缸上的气门间隙，方法同上"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "安装气门室盖子"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          },
+          "relationship": {
+            "identity": 24,
+            "start": 10,
+            "end": 25,
+            "type": "维修过程13",
+            "properties": {}
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "安装气门室盖子"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]

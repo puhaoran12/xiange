@@ -1,0 +1,3290 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "aa"
+        ],
+        "properties": {
+          "name": "发动机故障灯是否常亮",
+          "id": "A1405214"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 0,
+            "end": 1,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "aa"
+            ],
+            "properties": {
+              "name": "发动机故障灯是否常亮",
+              "id": "A1405214"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "aa"
+        ],
+        "properties": {
+          "name": "发动机故障灯是否常亮",
+          "id": "A1405214"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "读取故障码"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1,
+            "labels": [
+              "aa"
+            ],
+            "properties": {
+              "name": "发动机故障灯是否常亮",
+              "id": "A1405214"
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 1,
+            "end": 2,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "读取故障码"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "读取故障码"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "观察发动机故障征兆"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "读取故障码"
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 2,
+            "end": 3,
+            "type": "无故障码",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "观察发动机故障征兆"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "aa"
+        ],
+        "properties": {
+          "name": "发动机故障灯是否常亮",
+          "id": "A1405214"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "观察发动机故障征兆"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1,
+            "labels": [
+              "aa"
+            ],
+            "properties": {
+              "name": "发动机故障灯是否常亮",
+              "id": "A1405214"
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 1,
+            "end": 3,
+            "type": "不是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "观察发动机故障征兆"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "读取故障码"
+        }
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "按故障码提示排除电子控制系统故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "读取故障码"
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 2,
+            "end": 4,
+            "type": "有故障码",
+            "properties": {}
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "按故障码提示排除电子控制系统故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "观察发动机故障征兆"
+        }
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "发动机各种转速工作不良"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "观察发动机故障征兆"
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 3,
+            "end": 5,
+            "type": "包含",
+            "properties": {}
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "发动机各种转速工作不良"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "观察发动机故障征兆"
+        }
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "发动机加速不良"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "观察发动机故障征兆"
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 3,
+            "end": 6,
+            "type": "包含",
+            "properties": {}
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "发动机加速不良"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "观察发动机故障征兆"
+        }
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "进气管回火"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "观察发动机故障征兆"
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 3,
+            "end": 7,
+            "type": "包含",
+            "properties": {}
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "进气管回火"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "观察发动机故障征兆"
+        }
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "进气管放炮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "观察发动机故障征兆"
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 3,
+            "end": 8,
+            "type": "包含",
+            "properties": {}
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "进气管放炮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "发动机各种转速工作不良"
+        }
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "排气管是否发出有节奏的突突声"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "发动机各种转速工作不良"
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 5,
+            "end": 9,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "排气管是否发出有节奏的突突声"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "发动机加速不良"
+        }
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查点火正时"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "发动机加速不良"
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 6,
+            "end": 10,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查点火正时"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "进气管回火"
+        }
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查进气管、真空管是否严重漏气"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "进气管回火"
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 7,
+            "end": 11,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查进气管、真空管是否严重漏气"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "进气管放炮"
+        }
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "排气管是否有节奏的突突声"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "进气管放炮"
+            }
+          },
+          "relationship": {
+            "identity": 12,
+            "start": 8,
+            "end": 12,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "排气管是否有节奏的突突声"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "排气管是否发出有节奏的突突声"
+        }
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "是否伴随有回火放炮现象"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "排气管是否发出有节奏的突突声"
+            }
+          },
+          "relationship": {
+            "identity": 13,
+            "start": 9,
+            "end": 13,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "是否伴随有回火放炮现象"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "排气管是否发出有节奏的突突声"
+        }
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "汽油压力是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "排气管是否发出有节奏的突突声"
+            }
+          },
+          "relationship": {
+            "identity": 14,
+            "start": 9,
+            "end": 14,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "汽油压力是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查点火正时"
+        }
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及控制线路是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查点火正时"
+            }
+          },
+          "relationship": {
+            "identity": 15,
+            "start": 10,
+            "end": 15,
+            "type": "过迟",
+            "properties": {}
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及控制线路是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查点火正时"
+        }
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "有无爆燃现象"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查点火正时"
+            }
+          },
+          "relationship": {
+            "identity": 16,
+            "start": 10,
+            "end": 16,
+            "type": "正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "有无爆燃现象"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查进气管、真空管是否严重漏气"
+        }
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "排除"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查进气管、真空管是否严重漏气"
+            }
+          },
+          "relationship": {
+            "identity": 17,
+            "start": 11,
+            "end": 17,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "排除"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "检查进气管、真空管是否严重漏气"
+        }
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "点火正时是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "检查进气管、真空管是否严重漏气"
+            }
+          },
+          "relationship": {
+            "identity": 18,
+            "start": 11,
+            "end": 18,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "点火正时是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "排气管是否有节奏的突突声"
+        }
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "个别缸不工作"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "排气管是否有节奏的突突声"
+            }
+          },
+          "relationship": {
+            "identity": 19,
+            "start": 12,
+            "end": 19,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "个别缸不工作"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "排气管是否有节奏的突突声"
+        }
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "检查空气滤清器是否堵塞"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "排气管是否有节奏的突突声"
+            }
+          },
+          "relationship": {
+            "identity": 20,
+            "start": 12,
+            "end": 20,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "检查空气滤清器是否堵塞"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "是否伴随有回火放炮现象"
+        }
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "正时失准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "是否伴随有回火放炮现象"
+            }
+          },
+          "relationship": {
+            "identity": 21,
+            "start": 13,
+            "end": 21,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "正时失准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "是否伴随有回火放炮现象"
+        }
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "个别缸不工作"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "是否伴随有回火放炮现象"
+            }
+          },
+          "relationship": {
+            "identity": 22,
+            "start": 13,
+            "end": 22,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "个别缸不工作"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "汽油压力是否正常"
+        }
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "检查油压调节器是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "汽油压力是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 23,
+            "start": 14,
+            "end": 23,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "检查油压调节器是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "汽油压力是否正常"
+        }
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "喷油器及雾化质量是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "汽油压力是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 24,
+            "start": 14,
+            "end": 24,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "喷油器及雾化质量是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及控制线路是否正常"
+        }
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "更换ECU"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及控制线路是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 25,
+            "start": 15,
+            "end": 25,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "更换ECU"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及控制线路是否正常"
+        }
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "更换传感器"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及控制线路是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 26,
+            "start": 15,
+            "end": 26,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "更换传感器"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "有无爆燃现象"
+        }
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "汽油牌号过低，更换汽油，清洗油泵"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "有无爆燃现象"
+            }
+          },
+          "relationship": {
+            "identity": 27,
+            "start": 16,
+            "end": 27,
+            "type": "有",
+            "properties": {}
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "汽油牌号过低，更换汽油，清洗油泵"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "有无爆燃现象"
+        }
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "接3"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "有无爆燃现象"
+            }
+          },
+          "relationship": {
+            "identity": 28,
+            "start": 16,
+            "end": 28,
+            "type": "没有",
+            "properties": {}
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "接3"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 18,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "点火正时是否正常"
+        }
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "接1"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 18,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "点火正时是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 30,
+            "start": 18,
+            "end": 29,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "接1"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 18,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "点火正时是否正常"
+        }
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "汽油压力及喷雾质量是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 18,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "点火正时是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 29,
+            "start": 18,
+            "end": 30,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "汽油压力及喷雾质量是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 19,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "个别缸不工作"
+        }
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "接2"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 19,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "个别缸不工作"
+            }
+          },
+          "relationship": {
+            "identity": 31,
+            "start": 19,
+            "end": 31,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "接2"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "检查空气滤清器是否堵塞"
+        }
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "检查空气滤清器是否堵塞"
+            }
+          },
+          "relationship": {
+            "identity": 32,
+            "start": 20,
+            "end": 32,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "ee"
+        ],
+        "properties": {
+          "name": "检查空气滤清器是否堵塞"
+        }
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "检测汽油压力"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "ee"
+            ],
+            "properties": {
+              "name": "检查空气滤清器是否堵塞"
+            }
+          },
+          "relationship": {
+            "identity": 33,
+            "start": 20,
+            "end": 33,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "检测汽油压力"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "正时失准"
+        }
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及线路是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "正时失准"
+            }
+          },
+          "relationship": {
+            "identity": 34,
+            "start": 21,
+            "end": 34,
+            "type": "一",
+            "properties": {}
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及线路是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "个别缸不工作"
+        }
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "用单缸断油法诊断出故障缸"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 22,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "个别缸不工作"
+            }
+          },
+          "relationship": {
+            "identity": 35,
+            "start": 22,
+            "end": 35,
+            "type": "二",
+            "properties": {}
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "用单缸断油法诊断出故障缸"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "检查油压调节器是否正常"
+        }
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "检查油压调节器是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 36,
+            "start": 23,
+            "end": 36,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "检查油压调节器是否正常"
+        }
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检修、更换油泵"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "检查油压调节器是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 37,
+            "start": 23,
+            "end": 37,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检修、更换油泵"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "喷油器及雾化质量是否正常"
+        }
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查进气系统是否堵塞或严重漏气"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "喷油器及雾化质量是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 38,
+            "start": 24,
+            "end": 38,
+            "type": "三",
+            "properties": {}
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查进气系统是否堵塞或严重漏气"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "喷油器及雾化质量是否正常"
+        }
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "清洗或更换喷油器"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "喷油器及雾化质量是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 39,
+            "start": 24,
+            "end": 39,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "清洗或更换喷油器"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "汽油压力及喷雾质量是否正常"
+        }
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "排除供油系统故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "汽油压力及喷雾质量是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 40,
+            "start": 30,
+            "end": 40,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "排除供油系统故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "汽油压力及喷雾质量是否正常"
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查进气门是否关闭不严"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "汽油压力及喷雾质量是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 41,
+            "start": 30,
+            "end": 41,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查进气门是否关闭不严"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "检测汽油压力"
+        }
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查氧传感器、空气流量传感器、冷却液温度传感器等元件及其控制线路"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "检测汽油压力"
+            }
+          },
+          "relationship": {
+            "identity": 42,
+            "start": 33,
+            "end": 42,
+            "type": "正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查氧传感器、空气流量传感器、冷却液温度传感器等元件及其控制线路"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "ff"
+        ],
+        "properties": {
+          "name": "检测汽油压力"
+        }
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "更换油压调节器"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "ff"
+            ],
+            "properties": {
+              "name": "检测汽油压力"
+            }
+          },
+          "relationship": {
+            "identity": 43,
+            "start": 33,
+            "end": 43,
+            "type": "过高",
+            "properties": {}
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "更换油压调节器"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及线路是否正常"
+        }
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及线路是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 44,
+            "start": 34,
+            "end": 44,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及线路是否正常"
+        }
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "调整正时或更换ECU"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "曲轴传感器、凸轮轴位置传感器、爆燃传感器及线路是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 45,
+            "start": 34,
+            "end": 45,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "调整正时或更换ECU"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "用单缸断油法诊断出故障缸"
+        }
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查此缸火花塞、高压线并检测气缸压力，排除机械故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "用单缸断油法诊断出故障缸"
+            }
+          },
+          "relationship": {
+            "identity": 46,
+            "start": 35,
+            "end": 46,
+            "type": "下一步",
+            "properties": {}
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查此缸火花塞、高压线并检测气缸压力，排除机械故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查进气系统是否堵塞或严重漏气"
+        }
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "排除"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查进气系统是否堵塞或严重漏气"
+            }
+          },
+          "relationship": {
+            "identity": 47,
+            "start": 38,
+            "end": 47,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "排除"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查进气系统是否堵塞或严重漏气"
+        }
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查EGR系统"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查进气系统是否堵塞或严重漏气"
+            }
+          },
+          "relationship": {
+            "identity": 48,
+            "start": 38,
+            "end": 48,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查EGR系统"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查进气门是否关闭不严"
+        }
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "排除故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查进气门是否关闭不严"
+            }
+          },
+          "relationship": {
+            "identity": 49,
+            "start": 41,
+            "end": 49,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "排除故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查进气门是否关闭不严"
+        }
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "拆检缸盖，检查火花塞、燃烧室是否积碳过多，形成不良点火"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查进气门是否关闭不严"
+            }
+          },
+          "relationship": {
+            "identity": 50,
+            "start": 41,
+            "end": 50,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "拆检缸盖，检查火花塞、燃烧室是否积碳过多，形成不良点火"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 42,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查氧传感器、空气流量传感器、冷却液温度传感器等元件及其控制线路"
+        }
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查点火正时"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 42,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查氧传感器、空气流量传感器、冷却液温度传感器等元件及其控制线路"
+            }
+          },
+          "relationship": {
+            "identity": 51,
+            "start": 42,
+            "end": 51,
+            "type": "正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查点火正时"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 42,
+        "labels": [
+          "gg"
+        ],
+        "properties": {
+          "name": "检查氧传感器、空气流量传感器、冷却液温度传感器等元件及其控制线路"
+        }
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检修或更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 42,
+            "labels": [
+              "gg"
+            ],
+            "properties": {
+              "name": "检查氧传感器、空气流量传感器、冷却液温度传感器等元件及其控制线路"
+            }
+          },
+          "relationship": {
+            "identity": 52,
+            "start": 42,
+            "end": 52,
+            "type": "不正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检修或更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查EGR系统"
+        }
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "ii"
+        ],
+        "properties": {
+          "name": "检查三元催化器、排气消声器有无堵塞"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查EGR系统"
+            }
+          },
+          "relationship": {
+            "identity": 53,
+            "start": 48,
+            "end": 53,
+            "type": "正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "ii"
+            ],
+            "properties": {
+              "name": "检查三元催化器、排气消声器有无堵塞"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查EGR系统"
+        }
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "ii"
+        ],
+        "properties": {
+          "name": "更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查EGR系统"
+            }
+          },
+          "relationship": {
+            "identity": 54,
+            "start": 48,
+            "end": 54,
+            "type": "不正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "ii"
+            ],
+            "properties": {
+              "name": "更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 51,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查点火正时"
+        }
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "ii"
+        ],
+        "properties": {
+          "name": "检查排气门是否关闭不严，排除机械故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 51,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查点火正时"
+            }
+          },
+          "relationship": {
+            "identity": 55,
+            "start": 51,
+            "end": 55,
+            "type": "正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "ii"
+            ],
+            "properties": {
+              "name": "检查排气门是否关闭不严，排除机械故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 51,
+        "labels": [
+          "hh"
+        ],
+        "properties": {
+          "name": "检查点火正时"
+        }
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "ii"
+        ],
+        "properties": {
+          "name": "接1"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 51,
+            "labels": [
+              "hh"
+            ],
+            "properties": {
+              "name": "检查点火正时"
+            }
+          },
+          "relationship": {
+            "identity": 56,
+            "start": 51,
+            "end": 56,
+            "type": "不正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "ii"
+            ],
+            "properties": {
+              "name": "接1"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 53,
+        "labels": [
+          "ii"
+        ],
+        "properties": {
+          "name": "检查三元催化器、排气消声器有无堵塞"
+        }
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "jj"
+        ],
+        "properties": {
+          "name": "清洗或更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 53,
+            "labels": [
+              "ii"
+            ],
+            "properties": {
+              "name": "检查三元催化器、排气消声器有无堵塞"
+            }
+          },
+          "relationship": {
+            "identity": 57,
+            "start": 53,
+            "end": 57,
+            "type": "有",
+            "properties": {}
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "jj"
+            ],
+            "properties": {
+              "name": "清洗或更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 53,
+        "labels": [
+          "ii"
+        ],
+        "properties": {
+          "name": "检查三元催化器、排气消声器有无堵塞"
+        }
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "jj"
+        ],
+        "properties": {
+          "name": "检查空气流量传感器、冷却液温度传感器、节气门位置传感器和氧传感器及线路是否正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 53,
+            "labels": [
+              "ii"
+            ],
+            "properties": {
+              "name": "检查三元催化器、排气消声器有无堵塞"
+            }
+          },
+          "relationship": {
+            "identity": 58,
+            "start": 53,
+            "end": 58,
+            "type": "无",
+            "properties": {}
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "jj"
+            ],
+            "properties": {
+              "name": "检查空气流量传感器、冷却液温度传感器、节气门位置传感器和氧传感器及线路是否正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 58,
+        "labels": [
+          "jj"
+        ],
+        "properties": {
+          "name": "检查空气流量传感器、冷却液温度传感器、节气门位置传感器和氧传感器及线路是否正常"
+        }
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "kk"
+        ],
+        "properties": {
+          "name": "更换"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 58,
+            "labels": [
+              "jj"
+            ],
+            "properties": {
+              "name": "检查空气流量传感器、冷却液温度传感器、节气门位置传感器和氧传感器及线路是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 59,
+            "start": 58,
+            "end": 59,
+            "type": "否",
+            "properties": {}
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "kk"
+            ],
+            "properties": {
+              "name": "更换"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 58,
+        "labels": [
+          "jj"
+        ],
+        "properties": {
+          "name": "检查空气流量传感器、冷却液温度传感器、节气门位置传感器和氧传感器及线路是否正常"
+        }
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "kk"
+        ],
+        "properties": {
+          "name": "检查点火能量"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 58,
+            "labels": [
+              "jj"
+            ],
+            "properties": {
+              "name": "检查空气流量传感器、冷却液温度传感器、节气门位置传感器和氧传感器及线路是否正常"
+            }
+          },
+          "relationship": {
+            "identity": 60,
+            "start": 58,
+            "end": 60,
+            "type": "是",
+            "properties": {}
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "kk"
+            ],
+            "properties": {
+              "name": "检查点火能量"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 60,
+        "labels": [
+          "kk"
+        ],
+        "properties": {
+          "name": "检查点火能量"
+        }
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "ll"
+        ],
+        "properties": {
+          "name": "检查点火线圈、火花塞、高压线等"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 60,
+            "labels": [
+              "kk"
+            ],
+            "properties": {
+              "name": "检查点火能量"
+            }
+          },
+          "relationship": {
+            "identity": 61,
+            "start": 60,
+            "end": 61,
+            "type": "弱",
+            "properties": {}
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "ll"
+            ],
+            "properties": {
+              "name": "检查点火线圈、火花塞、高压线等"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 60,
+        "labels": [
+          "kk"
+        ],
+        "properties": {
+          "name": "检查点火能量"
+        }
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "ll"
+        ],
+        "properties": {
+          "name": "检查各缸压缩压力，排除机械故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 60,
+            "labels": [
+              "kk"
+            ],
+            "properties": {
+              "name": "检查点火能量"
+            }
+          },
+          "relationship": {
+            "identity": 62,
+            "start": 60,
+            "end": 62,
+            "type": "正常",
+            "properties": {}
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "ll"
+            ],
+            "properties": {
+              "name": "检查各缸压缩压力，排除机械故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]

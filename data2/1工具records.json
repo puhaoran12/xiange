@@ -1,0 +1,944 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺是一种由多片不同厚度的标准钢片所组成的测量工具，每片钢片有平行的两个测量平面，并在钢片上标出其厚度值",
+          "id": "00005214"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 0,
+            "end": 1,
+            "type": "基本信息",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺是一种由多片不同厚度的标准钢片所组成的测量工具，每片钢片有平行的两个测量平面，并在钢片上标出其厚度值",
+              "id": "00005214"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "功能",
+          "specific": "主要用于两个接合面之间的间隙值的检验"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 0,
+            "end": 2,
+            "type": "作用",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "功能",
+              "specific": "主要用于两个接合面之间的间隙值的检验"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "cc"
+        ],
+        "properties": {
+          "name": "用法",
+          "specific": "使用时，可以用一片进行测量，也可以由多片组合在一起进行测量"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 0,
+            "end": 3,
+            "type": "使用方式",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "cc"
+            ],
+            "properties": {
+              "name": "用法",
+              "specific": "使用时，可以用一片进行测量，也可以由多片组合在一起进行测量"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "dd"
+        ],
+        "properties": {
+          "name": "步骤一",
+          "specific": "用干净布将塞尺片两测量表面擦拭干净，不能在沾有油污或金属屑末的情况下进行测量，否则将直接影响测量结果的准确性。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 0,
+            "end": 4,
+            "type": "使用步骤",
+            "properties": {}
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "dd"
+            ],
+            "properties": {
+              "name": "步骤一",
+              "specific": "用干净布将塞尺片两测量表面擦拭干净，不能在沾有油污或金属屑末的情况下进行测量，否则将直接影响测量结果的准确性。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "步骤二",
+          "specific": "将塞尺片插入被测间隙中，来回拉动塞尺片，感到稍有阻力则该间隙值接近塞尺片上所标出的数值。如果拉动时阻力过大或过小，则该间隙值小于或大于塞尺片上所标出的数值。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 0,
+            "end": 5,
+            "type": "使用步骤",
+            "properties": {}
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "步骤二",
+              "specific": "将塞尺片插入被测间隙中，来回拉动塞尺片，感到稍有阻力则该间隙值接近塞尺片上所标出的数值。如果拉动时阻力过大或过小，则该间隙值小于或大于塞尺片上所标出的数值。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "步骤三",
+          "specific": "间隙的测量和调整时，先选择符合间隙规定的塞尺，插入被测间隙中，然后在一边调整的同时，一边拉动塞尺片，直到感觉稍有阻力时为合适，这时即可拧紧锁紧螺母"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 0,
+            "end": 6,
+            "type": "使用步骤",
+            "properties": {}
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "步骤三",
+              "specific": "间隙的测量和调整时，先选择符合间隙规定的塞尺，插入被测间隙中，然后在一边调整的同时，一边拉动塞尺片，直到感觉稍有阻力时为合适，这时即可拧紧锁紧螺母"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "notice"
+        ],
+        "properties": {
+          "name": "使用时",
+          "specific": "不允许在测量过程中剧烈折塞尺片，或用较大的力硬将塞尺片插入被检测间隙中，否则将损坏或损伤塞尺片的测量表面或零件表面"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 0,
+            "end": 7,
+            "type": "注意事项",
+            "properties": {}
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "notice"
+            ],
+            "properties": {
+              "name": "使用时",
+              "specific": "不允许在测量过程中剧烈折塞尺片，或用较大的力硬将塞尺片插入被检测间隙中，否则将损坏或损伤塞尺片的测量表面或零件表面"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "notice"
+        ],
+        "properties": {
+          "name": "用完后",
+          "specific": "用毕，应将塞尺片擦干净，并涂上一薄层润滑油或工业凡士林，然后将塞尺片折回夹框内，以防锈蚀、变曲、变形而损坏"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 0,
+            "end": 8,
+            "type": "注意事项",
+            "properties": {}
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "notice"
+            ],
+            "properties": {
+              "name": "用完后",
+              "specific": "用毕，应将塞尺片擦干净，并涂上一薄层润滑油或工业凡士林，然后将塞尺片折回夹框内，以防锈蚀、变曲、变形而损坏"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "notice"
+        ],
+        "properties": {
+          "name": "存放时",
+          "specific": "存放时，不能放在重物以下以免损坏塞尺"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 0,
+            "end": 9,
+            "type": "注意事项",
+            "properties": {}
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "notice"
+            ],
+            "properties": {
+              "name": "存放时",
+              "specific": "存放时，不能放在重物以下以免损坏塞尺"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "单片塞尺",
+          "specific": "单片塞尺由一组有不同的厚度级差的薄钢片组成的量规。塞尺是用来测量间隙尺寸的。当检验被测的尺寸是否合格时，可用通止法来判断，也可以由检验的人根据塞尺与被测表面的松紧程度来判断。塞尺通常是用不锈钢制造，薄的厚度为0.02毫米;厚的厚度为3毫米。自0.02至0.1毫米间，各钢片的厚度级差为0.01毫米;从0.1至1毫米间，各钢片厚度的级差一般为0.05毫米;从1毫米以上时，钢片厚度级差是1毫米。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 0,
+            "end": 10,
+            "type": "类型",
+            "properties": {}
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "单片塞尺",
+              "specific": "单片塞尺由一组有不同的厚度级差的薄钢片组成的量规。塞尺是用来测量间隙尺寸的。当检验被测的尺寸是否合格时，可用通止法来判断，也可以由检验的人根据塞尺与被测表面的松紧程度来判断。塞尺通常是用不锈钢制造，薄的厚度为0.02毫米;厚的厚度为3毫米。自0.02至0.1毫米间，各钢片的厚度级差为0.01毫米;从0.1至1毫米间，各钢片厚度的级差一般为0.05毫米;从1毫米以上时，钢片厚度级差是1毫米。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "数字显示型楔形塞尺",
+          "specific": "产品的规格有五种SDRA 10,SDRA 15,SDRA 20SDRA 30 SDRA 40,量程分别为 0至10mm,5至15mm,10至20mm,20至30mm.30至40mm.还有用于测量汽封A、B值的专用数字显示楔型塞尺.量程为0-10mm,精确度为0.01mm。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 0,
+            "end": 11,
+            "type": "类型",
+            "properties": {}
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "数字显示型楔形塞尺",
+              "specific": "产品的规格有五种SDRA 10,SDRA 15,SDRA 20SDRA 30 SDRA 40,量程分别为 0至10mm,5至15mm,10至20mm,20至30mm.30至40mm.还有用于测量汽封A、B值的专用数字显示楔型塞尺.量程为0-10mm,精确度为0.01mm。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "塞尺",
+          "model": "GG010"
+        }
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "成组塞尺",
+          "specific": "塞尺的长度有100、150、200、300"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "塞尺",
+              "model": "GG010"
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 0,
+            "end": 12,
+            "type": "类型",
+            "properties": {}
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "成组塞尺",
+              "specific": "塞尺的长度有100、150、200、300"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "成组塞尺",
+          "specific": "塞尺的长度有100、150、200、300"
+        }
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "pian"
+        ],
+        "properties": {
+          "name": 13
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "成组塞尺",
+              "specific": "塞尺的长度有100、150、200、300"
+            }
+          },
+          "relationship": {
+            "identity": 12,
+            "start": 12,
+            "end": 13,
+            "type": "片数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "pian"
+            ],
+            "properties": {
+              "name": 13
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "成组塞尺",
+          "specific": "塞尺的长度有100、150、200、300"
+        }
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "pian"
+        ],
+        "properties": {
+          "name": 14
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "成组塞尺",
+              "specific": "塞尺的长度有100、150、200、300"
+            }
+          },
+          "relationship": {
+            "identity": 13,
+            "start": 12,
+            "end": 14,
+            "type": "片数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "pian"
+            ],
+            "properties": {
+              "name": 14
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "成组塞尺",
+          "specific": "塞尺的长度有100、150、200、300"
+        }
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "pian"
+        ],
+        "properties": {
+          "name": 17
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "成组塞尺",
+              "specific": "塞尺的长度有100、150、200、300"
+            }
+          },
+          "relationship": {
+            "identity": 14,
+            "start": 12,
+            "end": 15,
+            "type": "片数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "pian"
+            ],
+            "properties": {
+              "name": 17
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "成组塞尺",
+          "specific": "塞尺的长度有100、150、200、300"
+        }
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "pian"
+        ],
+        "properties": {
+          "name": 20
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "成组塞尺",
+              "specific": "塞尺的长度有100、150、200、300"
+            }
+          },
+          "relationship": {
+            "identity": 15,
+            "start": 12,
+            "end": 16,
+            "type": "片数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "pian"
+            ],
+            "properties": {
+              "name": 20
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "specification"
+        ],
+        "properties": {
+          "name": "成组塞尺",
+          "specific": "塞尺的长度有100、150、200、300"
+        }
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "pian"
+        ],
+        "properties": {
+          "name": 21
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "specification"
+            ],
+            "properties": {
+              "name": "成组塞尺",
+              "specific": "塞尺的长度有100、150、200、300"
+            }
+          },
+          "relationship": {
+            "identity": 16,
+            "start": 12,
+            "end": 17,
+            "type": "片数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "pian"
+            ],
+            "properties": {
+              "name": 21
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]

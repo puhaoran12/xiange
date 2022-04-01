@@ -1,0 +1,722 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机运转不平稳，怠速时尤甚，运转无力，加速困难，油耗增加，排气管发出有节奏的突突声，有时伴有回火、放炮现象;节气门突然开大加速时，发动机转速不能及时升高，反而下降、熄火，并伴有爆燃声、排气管发出突突声或回火声。",
+          "id": "A1405214"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 0,
+            "end": 1,
+            "type": "故障现象",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机运转不平稳，怠速时尤甚，运转无力，加速困难，油耗增加，排气管发出有节奏的突突声，有时伴有回火、放炮现象;节气门突然开大加速时，发动机转速不能及时升高，反而下降、熄火，并伴有爆燃声、排气管发出突突声或回火声。",
+              "id": "A1405214"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "火",
+          "specific": "点火过迟、高压火弱"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 0,
+            "end": 2,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "火",
+              "specific": "点火过迟、高压火弱"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "汽油",
+          "specific": "汽油质量差、汽油压力不足"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 0,
+            "end": 3,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "汽油",
+              "specific": "汽油质量差、汽油压力不足"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "喷油器",
+          "specific": "喷油器工作不良、油压调节器损坏"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 0,
+            "end": 4,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "喷油器",
+              "specific": "喷油器工作不良、油压调节器损坏"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "堵塞",
+          "specific": "空气滤清器脏堵、三元催化器或排气消声器堵塞"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 0,
+            "end": 5,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "堵塞",
+              "specific": "空气滤清器脏堵、三元催化器或排气消声器堵塞"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "进气系统",
+          "specific": "进气系统漏气"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 0,
+            "end": 6,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "进气系统",
+              "specific": "进气系统漏气"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "EGR",
+          "specific": "EGR系统工作不正常"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 0,
+            "end": 7,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "EGR",
+              "specific": "EGR系统工作不正常"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "传感器",
+          "specific": "氧传感器、爆燃传感器、节气门位置传感器、曲轴位置传感器及凸轮轴位置传感器信号失准"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 0,
+            "end": 8,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "传感器",
+              "specific": "氧传感器、爆燃传感器、节气门位置传感器、曲轴位置传感器及凸轮轴位置传感器信号失准"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "空气流量传感器",
+          "specific": "空气流量传感器、进气压力传感器信号不良"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 0,
+            "end": 9,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "空气流量传感器",
+              "specific": "空气流量传感器、进气压力传感器信号不良"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "气门",
+          "specific": "进排气门密封不良，气缸压力过低"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 0,
+            "end": 10,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "气门",
+              "specific": "进排气门密封不良，气缸压力过低"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "缺杠",
+          "specific": "个别缸不工作"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 0,
+            "end": 11,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "缺杠",
+              "specific": "个别缸不工作"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机动力不足，加速不良",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "because"
+        ],
+        "properties": {
+          "name": "ECU故障",
+          "specific": "ECU有故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机动力不足，加速不良",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 0,
+            "end": 12,
+            "type": "故障原因",
+            "properties": {}
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "because"
+            ],
+            "properties": {
+              "name": "ECU故障",
+              "specific": "ECU有故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]

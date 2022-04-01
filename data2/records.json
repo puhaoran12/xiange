@@ -1,0 +1,6890 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+          "km": 380,
+          "model": "GG010",
+          "id": 93400637
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+              "km": 380,
+              "model": "GG010",
+              "id": 93400637
+            }
+          },
+          "relationship": {
+            "identity": 116,
+            "start": 15,
+            "end": 2,
+            "type": "similar",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GBW油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3405120"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406521"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GBW油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3405120"
+            }
+          },
+          "relationship": {
+            "identity": 96,
+            "start": 12,
+            "end": 3,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406521"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+          "km": 380,
+          "model": "GG010",
+          "id": 93400637
+        }
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+              "km": 380,
+              "model": "GG010",
+              "id": 93400637
+            }
+          },
+          "relationship": {
+            "identity": 117,
+            "start": 15,
+            "end": 4,
+            "type": "similar",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          },
+          "relationship": {
+            "identity": 118,
+            "start": 2,
+            "end": 4,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406521"
+        }
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406521"
+            }
+          },
+          "relationship": {
+            "identity": 84,
+            "start": 3,
+            "end": 10,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406020"
+        }
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406020"
+            }
+          },
+          "relationship": {
+            "identity": 90,
+            "start": 11,
+            "end": 10,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406521"
+        }
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406020"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406521"
+            }
+          },
+          "relationship": {
+            "identity": 91,
+            "start": 3,
+            "end": 11,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406020"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406020"
+        }
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GBW油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3405120"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406020"
+            }
+          },
+          "relationship": {
+            "identity": 98,
+            "start": 11,
+            "end": 12,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GBW油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3405120"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GBW油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3405120"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          },
+          "relationship": {
+            "identity": 97,
+            "start": 10,
+            "end": 12,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GBW油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3405120"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机异响,专营店反馈一台同悦自产4GB发动机转速在1700转/分钟车辆在2档、3挡、4档发 动机急加速时车辆右前侧卡卡异响（响声就像是汽油不达标发动机急加速时发动机爆震敲缸时的 声音）正常行驶后超过1700转时车辆正常",
+          "km": 3996,
+          "model": "GG010",
+          "id": 93400951
+        }
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+          "km": 380,
+          "model": "GG010",
+          "id": 93400637
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机异响,专营店反馈一台同悦自产4GB发动机转速在1700转/分钟车辆在2档、3挡、4档发 动机急加速时车辆右前侧卡卡异响（响声就像是汽油不达标发动机急加速时发动机爆震敲缸时的 声音）正常行驶后超过1700转时车辆正常",
+              "km": 3996,
+              "model": "GG010",
+              "id": 93400951
+            }
+          },
+          "relationship": {
+            "identity": 115,
+            "start": 13,
+            "end": 15,
+            "type": "same",
+            "properties": {
+              "name": "相似"
+            }
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+              "km": 380,
+              "model": "GG010",
+              "id": 93400637
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "怠速游车",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "ECU程序"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "怠速游车",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 0,
+            "end": 16,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "ECU程序"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "怠速游车",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "燃油压力"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "怠速游车",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 0,
+            "end": 17,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "燃油压力"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "怠速游车",
+          "km": 11000,
+          "model": "GG010",
+          "id": 93000294
+        }
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "电子节气门"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "怠速游车",
+              "km": 11000,
+              "model": "GG010",
+              "id": 93000294
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 0,
+            "end": 18,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "电子节气门"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "无法开启节气门",
+          "km": 0,
+          "model": "GG010",
+          "id": "A1405214"
+        }
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "传感器"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "无法开启节气门",
+              "km": 0,
+              "model": "GG010",
+              "id": "A1405214"
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 1,
+            "end": 19,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "传感器"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "无法开启节气门",
+          "km": 0,
+          "model": "GG010",
+          "id": "A1405214"
+        }
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "无法正常开启"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "无法开启节气门",
+              "km": 0,
+              "model": "GG010",
+              "id": "A1405214"
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 1,
+            "end": 20,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "无法正常开启"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "电控系统"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 2,
+            "end": 21,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "电控系统"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "线束问题"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 2,
+            "end": 22,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "线束问题"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "点火线圈"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 2,
+            "end": 23,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "点火线圈"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "连接诊断仪读取故障码有两 个：一、P0016进气VCP凸轮齿学习偏差超岀范围：二、P0026进气VCP液压控制阀钳住. 根据故障码，可以初步判定0CV液压控制阀卡住导致气门正时调节不准造成的，读取相关 数据流，发现怠速时进气管绝对压力为85KPa,进气管压力较大，正常应在35KPa左右。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          },
+          "relationship": {
+            "identity": 14,
+            "start": 2,
+            "end": 24,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "连接诊断仪读取故障码有两 个：一、P0016进气VCP凸轮齿学习偏差超岀范围：二、P0026进气VCP液压控制阀钳住. 根据故障码，可以初步判定0CV液压控制阀卡住导致气门正时调节不准造成的，读取相关 数据流，发现怠速时进气管绝对压力为85KPa,进气管压力较大，正常应在35KPa左右。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机抖动",
+          "km": 0,
+          "model": "GH010",
+          "id": "A3407047"
+        }
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "由于怠速时进气凸轮轴配气相位角过大导致发动机进气不 良怠速抖动，即进气提前角过过于提前，气缸内部分气体回到进气管，使进气管绝对压力 増加并产生“突，突,突”的声音。而进气凸轮轴配气相位角是由ECU通过VCP气门正时调节器和OCV液压控制阀来进行控制的。当OCV液压控制阀卡滞在100%的位置时，就会导 致VCP气门正时调节器将进气凸轮轴配气相位角调整至最大。而在高档位换成空档的时候容易熄火也有可能是由进气相位过大造成的"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机抖动",
+              "km": 0,
+              "model": "GH010",
+              "id": "A3407047"
+            }
+          },
+          "relationship": {
+            "identity": 15,
+            "start": 2,
+            "end": 25,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "由于怠速时进气凸轮轴配气相位角过大导致发动机进气不 良怠速抖动，即进气提前角过过于提前，气缸内部分气体回到进气管，使进气管绝对压力 増加并产生“突，突,突”的声音。而进气凸轮轴配气相位角是由ECU通过VCP气门正时调节器和OCV液压控制阀来进行控制的。当OCV液压控制阀卡滞在100%的位置时，就会导 致VCP气门正时调节器将进气凸轮轴配气相位角调整至最大。而在高档位换成空档的时候容易熄火也有可能是由进气相位过大造成的"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406521"
+        }
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对发动机进行断缸试验，发现第三缸工作不良，其它三缸无异常情 况，工作基本正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406521"
+            }
+          },
+          "relationship": {
+            "identity": 17,
+            "start": 3,
+            "end": 26,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对发动机进行断缸试验，发现第三缸工作不良，其它三缸无异常情 况，工作基本正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406521"
+        }
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "。用万 用表测量第三缸喷油器线束，该线供电端子A电压正常12. 4V,电压正常范围是等于电瓶电 压，搭铁端子B搭铁也正常，再用万用表测量线束与ECU之间的导通性即C端子与ECU的26 号端子之间的导通性，结果该线导通度好。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406521"
+            }
+          },
+          "relationship": {
+            "identity": 18,
+            "start": 3,
+            "end": 27,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "。用万 用表测量第三缸喷油器线束，该线供电端子A电压正常12. 4V,电压正常范围是等于电瓶电 压，搭铁端子B搭铁也正常，再用万用表测量线束与ECU之间的导通性即C端子与ECU的26 号端子之间的导通性，结果该线导通度好。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406521"
+        }
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "拆下第三缸点火线圈和火花塞，检査点火线圏，未发现明显的破损等损坏现象。再检査火花塞，火花塞无积碳，颜色较浅且上面附着大量透明液体，从火花塞积碳和颜色可以看出 第三缸没有参与燃烧。从火花塞上面附着的大量透明液体气味可以看出，该液体为汽油，说 明第三缸已经喷油，但从火花塞上面附着的汽油量来看，喷油的量有点多，再从火花塞孔看 气缸内的情况，气紅内有大量汽油，可以基本确定第三缸的喷油量较多。但第三缸线束前面 已经检査过，没有问题，难道是喷油器的问题？于是拆下燃油导轨和喷油器，然后将点火开 关打到ON档，使燃油导轨内产生压力。当燃油导轨内有压力后第三缸喷油器开始常喷油，将 第三缸喷油器线束拔掉后，喷油器仍常喷油，这说明是喷油器内部卡滞，无法回位，导致常 喷油。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406521"
+            }
+          },
+          "relationship": {
+            "identity": 19,
+            "start": 3,
+            "end": 28,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "拆下第三缸点火线圈和火花塞，检査点火线圏，未发现明显的破损等损坏现象。再检査火花塞，火花塞无积碳，颜色较浅且上面附着大量透明液体，从火花塞积碳和颜色可以看出 第三缸没有参与燃烧。从火花塞上面附着的大量透明液体气味可以看出，该液体为汽油，说 明第三缸已经喷油，但从火花塞上面附着的汽油量来看，喷油的量有点多，再从火花塞孔看 气缸内的情况，气紅内有大量汽油，可以基本确定第三缸的喷油量较多。但第三缸线束前面 已经检査过，没有问题，难道是喷油器的问题？于是拆下燃油导轨和喷油器，然后将点火开 关打到ON档，使燃油导轨内产生压力。当燃油导轨内有压力后第三缸喷油器开始常喷油，将 第三缸喷油器线束拔掉后，喷油器仍常喷油，这说明是喷油器内部卡滞，无法回位，导致常 喷油。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "首先检査发动机是否存在缺缸现象，于是进行断缸试验，将四缸的喷油器线束逐缸拔掉观察 发动机工作情况，经检査发动机各缸工作正常，没有发现缺紅现象。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          },
+          "relationship": {
+            "identity": 22,
+            "start": 4,
+            "end": 29,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "首先检査发动机是否存在缺缸现象，于是进行断缸试验，将四缸的喷油器线束逐缸拔掉观察 发动机工作情况，经检査发动机各缸工作正常，没有发现缺紅现象。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检査ECU主线束是否存在短路或断路情况，利用万用表检査凸轮轴位置感器上的端子和线路 是否导通或连接是否可靠，经检査发现凸轮轴位置传感器线束插头上的端子和ECU线束上的端子均连接良好。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          },
+          "relationship": {
+            "identity": 23,
+            "start": 4,
+            "end": 30,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检査ECU主线束是否存在短路或断路情况，利用万用表检査凸轮轴位置感器上的端子和线路 是否导通或连接是否可靠，经检査发现凸轮轴位置传感器线束插头上的端子和ECU线束上的端子均连接良好。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检査凸轮轴位置传感器的性能是否失效，找一台没有故障同样型号的发动机，将该车上的凸 轮轴位置传感器倒换到故障车上，发现故障依旧，说明不是凸轮轴位置传感器性能失效导致 的故障现象。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          },
+          "relationship": {
+            "identity": 24,
+            "start": 4,
+            "end": 31,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检査凸轮轴位置传感器的性能是否失效，找一台没有故障同样型号的发动机，将该车上的凸 轮轴位置传感器倒换到故障车上，发现故障依旧，说明不是凸轮轴位置传感器性能失效导致 的故障现象。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检査ECU,其外观及各针脚完好，无断裂、歪斜等情况。为排除ECU内部是否存在故障，更 换一只新的ECU,更换后故障没有变化，说明ECU内部没有问题，该故障并不是ECU问题所 至。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          },
+          "relationship": {
+            "identity": 25,
+            "start": 4,
+            "end": 32,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检査ECU,其外观及各针脚完好，无断裂、歪斜等情况。为排除ECU内部是否存在故障，更 换一只新的ECU,更换后故障没有变化，说明ECU内部没有问题，该故障并不是ECU问题所 至。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 4,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机抖动严重",
+          "km": 0,
+          "model": "GG010",
+          "id": "93400537"
+        }
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检查是不是0CV阀工作不正常导致的发动机抖动，因为进气相位的调节是由0CV阀的开启位置来实现的，当0CV阀开启位置大于50%时，进气相位提前，当OCV阀位置在100%时，进气 提前角最大。这样就使得进气门过于提前开启，部分废气进入进气管后再被吸入气缸内，如 果在怠速时出现这种情况,就会导致发动机燃烧不应，发动机抖动严重。将0CV阀拆下，观察OCV状态，发现0CV阀有卡滞现象且卡滞在100%位置前后。如图所示：换一个新的0CV 阀后，将发动机恢复再次启动发动机，发动机不再岀现抖动现象，将诊断仪进入程序把故障 码清除，清楚后故障码不再岀现。再次将发动机熄火，重新启动发现故障现象不再出现。下 图为卡滞的OCV与正常没有卡滞的OCV阀进行比较。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 4,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机抖动严重",
+              "km": 0,
+              "model": "GG010",
+              "id": "93400537"
+            }
+          },
+          "relationship": {
+            "identity": 26,
+            "start": 4,
+            "end": 33,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检查是不是0CV阀工作不正常导致的发动机抖动，因为进气相位的调节是由0CV阀的开启位置来实现的，当0CV阀开启位置大于50%时，进气相位提前，当OCV阀位置在100%时，进气 提前角最大。这样就使得进气门过于提前开启，部分废气进入进气管后再被吸入气缸内，如 果在怠速时出现这种情况,就会导致发动机燃烧不应，发动机抖动严重。将0CV阀拆下，观察OCV状态，发现0CV阀有卡滞现象且卡滞在100%位置前后。如图所示：换一个新的0CV 阀后，将发动机恢复再次启动发动机，发动机不再岀现抖动现象，将诊断仪进入程序把故障 码清除，清楚后故障码不再岀现。再次将发动机熄火，重新启动发现故障现象不再出现。下 图为卡滞的OCV与正常没有卡滞的OCV阀进行比较。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机故障灯常亮",
+          "km": 0,
+          "model": "GG010",
+          "id": "93000042"
+        }
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "启动发动机后，发现发动机故障灯常亮，将诊断 仪进入程序，读出故障。故障码显示的故障是：后氧传感器加热故障。将诊断仪执行清除故障命 令，但故障码无法清除。反复试验多次，故障码都无法清除。说明生产技术部人员反映情况属实。 针对这一现象进行分析：首先，对后氧传感器进行检査，用万用表的欧姆档，检测后氧传感器的 电阻，测得后氧传感器3, 4号端子的电阻为10. 29欧，如图1所示，和其他后氧传感器对比发 现没有差别，说明该件良好"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机故障灯常亮",
+              "km": 0,
+              "model": "GG010",
+              "id": "93000042"
+            }
+          },
+          "relationship": {
+            "identity": 28,
+            "start": 5,
+            "end": 34,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "启动发动机后，发现发动机故障灯常亮，将诊断 仪进入程序，读出故障。故障码显示的故障是：后氧传感器加热故障。将诊断仪执行清除故障命 令，但故障码无法清除。反复试验多次，故障码都无法清除。说明生产技术部人员反映情况属实。 针对这一现象进行分析：首先，对后氧传感器进行检査，用万用表的欧姆档，检测后氧传感器的 电阻，测得后氧传感器3, 4号端子的电阻为10. 29欧，如图1所示，和其他后氧传感器对比发 现没有差别，说明该件良好"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机故障灯常亮",
+          "km": 0,
+          "model": "GG010",
+          "id": "93000042"
+        }
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对后氧传感器及ECU这段线路进行检测，用万用表的通导性检査这段线路是否导通，如图2所示。分别检测ECU的10. 20及90号针脚和后氧传感器线束间 的导通性，发现20号针脚和后氧传感器的线束不通，和调试返修人员反映，协调返修人员进行 换线朿，换过线束后重新启动发动机，将诊断仪进入清除故障码命令，清除故障码后，后氧传感 器加热故障消失。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机故障灯常亮",
+              "km": 0,
+              "model": "GG010",
+              "id": "93000042"
+            }
+          },
+          "relationship": {
+            "identity": 29,
+            "start": 5,
+            "end": 35,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对后氧传感器及ECU这段线路进行检测，用万用表的通导性检査这段线路是否导通，如图2所示。分别检测ECU的10. 20及90号针脚和后氧传感器线束间 的导通性，发现20号针脚和后氧传感器的线束不通，和调试返修人员反映，协调返修人员进行 换线朿，换过线束后重新启动发动机，将诊断仪进入清除故障码命令，清除故障码后，后氧传感 器加热故障消失。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机故障灯常亮",
+          "km": 0,
+          "model": "GG010",
+          "id": "93000042"
+        }
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "将OCV阀从发动机上拆出来直接连接线束，启动发动机，观测OCV阀前端的阀芯运行情况. 在怠速和急加速二种工况下，阀芯均没有移动。领取一个新的OCV阀重新验证，阀芯也没有移动"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机故障灯常亮",
+              "km": 0,
+              "model": "GG010",
+              "id": "93000042"
+            }
+          },
+          "relationship": {
+            "identity": 31,
+            "start": 5,
+            "end": 36,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "将OCV阀从发动机上拆出来直接连接线束，启动发动机，观测OCV阀前端的阀芯运行情况. 在怠速和急加速二种工况下，阀芯均没有移动。领取一个新的OCV阀重新验证，阀芯也没有移动"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机故障灯常亮",
+          "km": 0,
+          "model": "GG010",
+          "id": "93000042"
+        }
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检测线束电压。用万用表检测电压为12V,搭铁良好。由此可以基本确定ECU和线束是好 的。考虑到该电压可能是虚电压，于是拿了一试灯进行试验，将试灯接插在线束上，启动发动机 该试灯闪烁，该电压不是虚电压"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机故障灯常亮",
+              "km": 0,
+              "model": "GG010",
+              "id": "93000042"
+            }
+          },
+          "relationship": {
+            "identity": 32,
+            "start": 5,
+            "end": 37,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检测线束电压。用万用表检测电压为12V,搭铁良好。由此可以基本确定ECU和线束是好 的。考虑到该电压可能是虚电压，于是拿了一试灯进行试验，将试灯接插在线束上，启动发动机 该试灯闪烁，该电压不是虚电压"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机故障灯常亮",
+          "km": 0,
+          "model": "GG010",
+          "id": "93000042"
+        }
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检査线束端子母端发现孔偏大"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机故障灯常亮",
+              "km": 0,
+              "model": "GG010",
+              "id": "93000042"
+            }
+          },
+          "relationship": {
+            "identity": 33,
+            "start": 5,
+            "end": 38,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检査线束端子母端发现孔偏大"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对电路进行诊断，用万用表对发动机凸轮轴位置传感器的三根线路进行检测，发现三 根线路与ECU端连接正常，线束上的三个端子用万用表检测也正常，供电端子电压5V正常，搭 铁端子与负极连接正常，信号端子与ECU接收信号的05号端子连接正常，说明凸轮轴位置传感器的线路是艮好的。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 35,
+            "start": 6,
+            "end": 39,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对电路进行诊断，用万用表对发动机凸轮轴位置传感器的三根线路进行检测，发现三 根线路与ECU端连接正常，线束上的三个端子用万用表检测也正常，供电端子电压5V正常，搭 铁端子与负极连接正常，信号端子与ECU接收信号的05号端子连接正常，说明凸轮轴位置传感器的线路是艮好的。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对凸轮轴位置传感器的性能进行检测，从旁边一台好的4GB发动机上面拆下一个凸轮 轴位置传感器和故障车上面的凸轮轴位置传感器进行倒换，结果是：故障车上面的故障依旧，倒 换过后的好的车子也没有故障，说明凸轮轴位置传感器本身完好"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 36,
+            "start": 6,
+            "end": 40,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对凸轮轴位置传感器的性能进行检测，从旁边一台好的4GB发动机上面拆下一个凸轮 轴位置传感器和故障车上面的凸轮轴位置传感器进行倒换，结果是：故障车上面的故障依旧，倒 换过后的好的车子也没有故障，说明凸轮轴位置传感器本身完好"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对ECU进行检测，怀疑可能是ECU程序问题，找来一块的新的ECU进行倒换，换上 新的ECU后发现发动机无法启动，新的故障码显示，曲轴位置传感器线路没有信号。而将同一块 ECU换到其他车上发动机都能正常启动且无故障码。说明不是ECU问题。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 37,
+            "start": 6,
+            "end": 41,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对ECU进行检测，怀疑可能是ECU程序问题，找来一块的新的ECU进行倒换，换上 新的ECU后发现发动机无法启动，新的故障码显示，曲轴位置传感器线路没有信号。而将同一块 ECU换到其他车上发动机都能正常启动且无故障码。说明不是ECU问题。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "可能是进气凸轮轴位置传感器检测到的信号不正确才导致此故障，但前面已对凸轮轴位置传感器及线束进行了检查，均没有问题，说明是信号轮本身有问题或者是信号轮的实际 位置与理论位置出现了误差。信号轮与凸轮轴为总成件无法更换，所以决定更换进气凸轮轴"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 38,
+            "start": 6,
+            "end": 42,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "可能是进气凸轮轴位置传感器检测到的信号不正确才导致此故障，但前面已对凸轮轴位置传感器及线束进行了检查，均没有问题，说明是信号轮本身有问题或者是信号轮的实际 位置与理论位置出现了误差。信号轮与凸轮轴为总成件无法更换，所以决定更换进气凸轮轴"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对电路进行诊断【发动机性能限制多数是因为线路原因导致】；用万用表对发动 机节气门位置传感器的6根线路进行检测，利用万用表的通导性针对ECU上的6个端子进 行检测，发现6根线路都是通路。对电子节气门位置传感器输出的电压信号用万用表进行检 测，传感器#1和#2输出电压分别是0.43V和4.51V,输出的电压值都在正常范围内。再观 察电子节气门的开启状态，结果节气门能顺利开启，说明节气门上的6根线与ECU连接正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 40,
+            "start": 6,
+            "end": 43,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对电路进行诊断【发动机性能限制多数是因为线路原因导致】；用万用表对发动 机节气门位置传感器的6根线路进行检测，利用万用表的通导性针对ECU上的6个端子进 行检测，发现6根线路都是通路。对电子节气门位置传感器输出的电压信号用万用表进行检 测，传感器#1和#2输出电压分别是0.43V和4.51V,输出的电压值都在正常范围内。再观 察电子节气门的开启状态，结果节气门能顺利开启，说明节气门上的6根线与ECU连接正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "因为将油门踏板踩到底，故障码会再次显示油门踏板信号故障【不是P2106],那么问 题可能出在油门踏板位置传感器上。用诊断议读取电子油门踏板位置传感器信号，不踩电子 油门踏板即发动机怠速时，踏板位置传感器#1和位置传感器#2信号全为0%, ECU检测的 油门踏板位置为0%,以上数据均在正常范围内即在不踩电子油门踏板（发 动机怠速）情况下，油门踏板各位置传感器均为0%,说明电子油门踏板在怠速时没有问题。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 41,
+            "start": 6,
+            "end": 44,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "因为将油门踏板踩到底，故障码会再次显示油门踏板信号故障【不是P2106],那么问 题可能出在油门踏板位置传感器上。用诊断议读取电子油门踏板位置传感器信号，不踩电子 油门踏板即发动机怠速时，踏板位置传感器#1和位置传感器#2信号全为0%, ECU检测的 油门踏板位置为0%,以上数据均在正常范围内即在不踩电子油门踏板（发 动机怠速）情况下，油门踏板各位置传感器均为0%,说明电子油门踏板在怠速时没有问题。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "将油门踏板踩到底再读取电子油门踏板位置传感器信号，ECU检测的油门踏板位置为 100%,踏板位置传感器#1与传感器#2分别为0%与72.24%,加速踏板位置D与E的信号 分别为0.39%与44.71%，如图（2）所示。从以上数据可以看出，踏板位置传感器#1和加速 踏板位置D的信号均不正确，正确的数据应该是：踏板位置传感器#1与位置传感器#2的数 据应该相近，而加速踏板位置D与加速踏板位置E的数据是成倍数的关系，将油门踩到底 等待二十秒钟左右后，所有数据又恢复正常，正常的车辆也会有数据滞后 的现象，但滞后时间较短，一般为5秒左右，这是因为诊断议数据采集的问题。而该车滞后 时间较长，说明该车的电子油门踏板线束或电子油门踏板可能存在问题。用万用表测量电子油门踏板线束，各线束与ECU连接正常，说明电子油门踏板的线束 没有问题，问题可能是电子油门踏板本身损坏"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 42,
+            "start": 6,
+            "end": 45,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "将油门踏板踩到底再读取电子油门踏板位置传感器信号，ECU检测的油门踏板位置为 100%,踏板位置传感器#1与传感器#2分别为0%与72.24%,加速踏板位置D与E的信号 分别为0.39%与44.71%，如图（2）所示。从以上数据可以看出，踏板位置传感器#1和加速 踏板位置D的信号均不正确，正确的数据应该是：踏板位置传感器#1与位置传感器#2的数 据应该相近，而加速踏板位置D与加速踏板位置E的数据是成倍数的关系，将油门踩到底 等待二十秒钟左右后，所有数据又恢复正常，正常的车辆也会有数据滞后 的现象，但滞后时间较短，一般为5秒左右，这是因为诊断议数据采集的问题。而该车滞后 时间较长，说明该车的电子油门踏板线束或电子油门踏板可能存在问题。用万用表测量电子油门踏板线束，各线束与ECU连接正常，说明电子油门踏板的线束 没有问题，问题可能是电子油门踏板本身损坏"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对电路进行诊断【因为故障码显示的电子节气门空气流量错误，性能限制等多数是因 为线路原因导致】：用万用表对发动机节气门门传感器的6根线路进行检测，利用万用表的通导 性针对ECU上的6个端子进行检测，发现6根线路都是通路，说明节气门上的6根线都是良好的."
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 44,
+            "start": 6,
+            "end": 46,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对电路进行诊断【因为故障码显示的电子节气门空气流量错误，性能限制等多数是因 为线路原因导致】：用万用表对发动机节气门门传感器的6根线路进行检测，利用万用表的通导 性针对ECU上的6个端子进行检测，发现6根线路都是通路，说明节气门上的6根线都是良好的."
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000169
+        }
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用诊断议读取发动机进气信号，发现进气信号不正常为70KPa,正常情况为了 35KPa 左右。拆下发动机护罩，再将连接发动机电 子节气门和空气滤淸器的软管拆下。用手堵 住进气口，发动机仍能继续运转，说明发动 机进气管存在漏气现象（正常情况下，堵住 进气口发动机会熄火）。于是检查发动机进气 管，发现进气管上有明显裂痕"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机故障码无法清除,有一台4GB发动机故障码无法清除，用诊断仪读取故障码显示:进气VCP凸轮轴位置传感器状态诊断：且该故障码无法清除。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000169
+            }
+          },
+          "relationship": {
+            "identity": 45,
+            "start": 6,
+            "end": 47,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用诊断议读取发动机进气信号，发现进气信号不正常为70KPa,正常情况为了 35KPa 左右。拆下发动机护罩，再将连接发动机电 子节气门和空气滤淸器的软管拆下。用手堵 住进气口，发动机仍能继续运转，说明发动 机进气管存在漏气现象（正常情况下，堵住 进气口发动机会熄火）。于是检查发动机进气 管，发现进气管上有明显裂痕"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93401485
+        }
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "首先检査是不是冷却风扇工作不良导致水温高，将发动机启动，加大油门几分钟后冷却风扇开始工作，说明冷却风扇是好的。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93401485
+            }
+          },
+          "relationship": {
+            "identity": 47,
+            "start": 7,
+            "end": 48,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "首先检査是不是冷却风扇工作不良导致水温高，将发动机启动，加大油门几分钟后冷却风扇开始工作，说明冷却风扇是好的。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93401485
+        }
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "二.将发动机启动加大油门几分钟后，用诊断仪读数据流显示水温为105°时，用手感觉发动机 的进出水管，感觉进出水管的温度差别十分明显【出水管温度远高于进水管温度，而正常时 在105°节温器已经完全打开进出水管温度差别应该是非常小的】。于是进行如下检查。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93401485
+            }
+          },
+          "relationship": {
+            "identity": 48,
+            "start": 7,
+            "end": 49,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "二.将发动机启动加大油门几分钟后，用诊断仪读数据流显示水温为105°时，用手感觉发动机 的进出水管，感觉进出水管的温度差别十分明显【出水管温度远高于进水管温度，而正常时 在105°节温器已经完全打开进出水管温度差别应该是非常小的】。于是进行如下检查。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93401485
+        }
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "三.检査水箱是否堵塞造成发动机水温高，将水箱拆下，从进水口加水看是否有水从出水口流出，【或用吹气的方法检测，把出水口堵住，从进水管吹气看是否能够吹动。】经检査发现有水 从出水管流出，说明水箱没有问题。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93401485
+            }
+          },
+          "relationship": {
+            "identity": 49,
+            "start": 7,
+            "end": 50,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "三.检査水箱是否堵塞造成发动机水温高，将水箱拆下，从进水口加水看是否有水从出水口流出，【或用吹气的方法检测，把出水口堵住，从进水管吹气看是否能够吹动。】经检査发现有水 从出水管流出，说明水箱没有问题。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93401485
+        }
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "四.检査节温器工作是否正常，节温器的开启温度是82° ,全开是95° ,最大升程是8亳米。找来一个体积稍小的料盒，到热水器旁接刚沸腾的热水，把节温器放在里面观察是否有打开 的现象，经检测发现节温器能够打开。【因为在冬季外部环境温度较低，所以在检测节温器 时要不停的换沸腾的水，否则很难检査出节温器功能是否失效】说明不是节温器打不开造成 发动机水温高的。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93401485
+            }
+          },
+          "relationship": {
+            "identity": 50,
+            "start": 7,
+            "end": 51,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "四.检査节温器工作是否正常，节温器的开启温度是82° ,全开是95° ,最大升程是8亳米。找来一个体积稍小的料盒，到热水器旁接刚沸腾的热水，把节温器放在里面观察是否有打开 的现象，经检测发现节温器能够打开。【因为在冬季外部环境温度较低，所以在检测节温器 时要不停的换沸腾的水，否则很难检査出节温器功能是否失效】说明不是节温器打不开造成 发动机水温高的。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93401485
+        }
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检査水泵工作是否正常，首先检査水泵皮带是否有松动现象，再者将水泵拆下更换一个新的 看故障想象是否消失，经检查水泵皮带预紧力没有问题，再将水泵拆下更换新的，这时观察 故障现象并没有消失。故此说明不是水泵的原因导致发动机水温髙。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93401485
+            }
+          },
+          "relationship": {
+            "identity": 51,
+            "start": 7,
+            "end": 52,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检査水泵工作是否正常，首先检査水泵皮带是否有松动现象，再者将水泵拆下更换一个新的 看故障想象是否消失，经检查水泵皮带预紧力没有问题，再将水泵拆下更换新的，这时观察 故障现象并没有消失。故此说明不是水泵的原因导致发动机水温髙。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+          "km": 0,
+          "model": "GG010",
+          "id": 93401485
+        }
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "可能是水泵和进水口间没有打通造成的，将节温器拆下重新检査发现水泵和进水管之间果然 没有打通，将水泵和发动机进水管间的薄壁打通，再次将发动机启动加大节气门开度一段时 间后，故障现象不再出现。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "同悦自产汽油机水温高,发动机怠速一段时间后 膨胀水壶有开锅现象。",
+              "km": 0,
+              "model": "GG010",
+              "id": 93401485
+            }
+          },
+          "relationship": {
+            "identity": 52,
+            "start": 7,
+            "end": 53,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "可能是水泵和进水口间没有打通造成的，将节温器拆下重新检査发现水泵和进水管之间果然 没有打通，将水泵和发动机进水管间的薄壁打通，再次将发动机启动加大节气门开度一段时 间后，故障现象不再出现。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机故障码无法清除，加速无力:反映一台同悦自产4GB汽油机故障码无法清除，转速无法提升，油门踏 板踩到底后发动机转速最高只能达到2000rpm,之后就无法再提速，将诊断仪进入诊断程序，故 障码显示P1336： 58齿齿轮误差未学习。",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404921"
+        }
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机故障码无法清除，加速无力:反映一台同悦自产4GB汽油机故障码无法清除，转速无法提升，油门踏 板踩到底后发动机转速最高只能达到2000rpm,之后就无法再提速，将诊断仪进入诊断程序，故 障码显示P1336： 58齿齿轮误差未学习。",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404921"
+            }
+          },
+          "relationship": {
+            "identity": 54,
+            "start": 8,
+            "end": 54,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机间歇性无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000074
+        }
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "根据现场返修人员反映的现象进行验证，启动发动机后发动机运行正常，再次连续启动时 发现发动机无法启动。用万用表检测发动机点火线束发现点火线束没有电压，再检测发动机喷油 线束发现喷油线束也没有电压。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机间歇性无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000074
+            }
+          },
+          "relationship": {
+            "identity": 75,
+            "start": 9,
+            "end": 55,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "根据现场返修人员反映的现象进行验证，启动发动机后发动机运行正常，再次连续启动时 发现发动机无法启动。用万用表检测发动机点火线束发现点火线束没有电压，再检测发动机喷油 线束发现喷油线束也没有电压。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机间歇性无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000074
+        }
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "分析发动机点火，喷油线朿，是从主继电器过去的：这时 用万用表检测主继电器的各个针脚的电压，发现主继电器的各个针脚的电压都是正常的，但是主 继电器安装时不吸合。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机间歇性无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000074
+            }
+          },
+          "relationship": {
+            "identity": 76,
+            "start": 9,
+            "end": 56,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "分析发动机点火，喷油线朿，是从主继电器过去的：这时 用万用表检测主继电器的各个针脚的电压，发现主继电器的各个针脚的电压都是正常的，但是主 继电器安装时不吸合。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机间歇性无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000074
+        }
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检测ECU94号针脚和主继电器是否是导通的，利用万用表的导通性 检测主继电器和ECU是否导通：经检测主继电器和ECU是导通的。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机间歇性无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000074
+            }
+          },
+          "relationship": {
+            "identity": 77,
+            "start": 9,
+            "end": 57,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检测ECU94号针脚和主继电器是否是导通的，利用万用表的导通性 检测主继电器和ECU是否导通：经检测主继电器和ECU是导通的。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机间歇性无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": 93000074
+        }
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "该车前期发生过失火故障，有可能干粉灭火器在灭火时干粉妨碍了发动机搭铁线的良好的导 通性，于是将发动机搭铁线拆下清理后再装上，发现发动机能启动良好，但是还不能连续启动。 当将发动机搭铁线处清理干净后，该发动机就能正常启动"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机间歇性无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": 93000074
+            }
+          },
+          "relationship": {
+            "identity": 78,
+            "start": 9,
+            "end": 58,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "该车前期发生过失火故障，有可能干粉灭火器在灭火时干粉妨碍了发动机搭铁线的良好的导 通性，于是将发动机搭铁线拆下清理后再装上，发现发动机能启动良好，但是还不能连续启动。 当将发动机搭铁线处清理干净后，该发动机就能正常启动"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "因为故障码显示三缸点火线圈故障，所以首先检査第三缸点火线圏，将第三缸点火线圈拆下 发现第三缸点火线圈已经烧蚀，这与前面所说的发动机舱内有烧焦的气味相吻合，是因为点 火线圈烧蚀所至。更换点火线圈，更换后发现故障依旧，发动机仍然无法启动。多次启动后 发现刚换上的三缸点火线圈烫手，而其他的点火线圈没有烫手的现象。将一缸的点火线圈和 三缸的倒换，倒换后装在第三缸位置的点火线圈还是有烫手现象。说明三缸的点火线圈没有 问题。综合分析发动机无法启动可能和三缸点火线圏烧蚀有关，三缸点火线圈烧蚀主要原因 可能是点火线圈常工作引起。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          },
+          "relationship": {
+            "identity": 85,
+            "start": 10,
+            "end": 59,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "因为故障码显示三缸点火线圈故障，所以首先检査第三缸点火线圏，将第三缸点火线圈拆下 发现第三缸点火线圈已经烧蚀，这与前面所说的发动机舱内有烧焦的气味相吻合，是因为点 火线圈烧蚀所至。更换点火线圈，更换后发现故障依旧，发动机仍然无法启动。多次启动后 发现刚换上的三缸点火线圈烫手，而其他的点火线圈没有烫手的现象。将一缸的点火线圈和 三缸的倒换，倒换后装在第三缸位置的点火线圈还是有烫手现象。说明三缸的点火线圈没有 问题。综合分析发动机无法启动可能和三缸点火线圏烧蚀有关，三缸点火线圈烧蚀主要原因 可能是点火线圈常工作引起。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "点火线圏主供电源是由IRC2提供如图（1）所示，而IRC2是由主继电器来进行控制，只要点火开关处于ON档位置，主继电器就会一直提供12V电源给四个点火线圏，所以该线路没有问题。ECU主要是控制点火线圏的搭铁来控制点火线圈的工作情况，如 果，ECU内部故障即ECU的02号端子内部与搭铁端子常通或该线路中途常搭铁会导致三缸点 火线圈常工作。将ECU线束拔下后用万用表测量线束02端子的搭铁情况，测量发现线束搭 铁正常。再用万用表测量ECU的02号端子的搭铁情况，测量发现该端子常搭铁，正常是没 有点指令时该端子应与搭铁断开。再将点火开关断开，用同样的方法测量ECU的02号端子 的搭铁情况，发现该端子仍常搭铁，说明ECU内部存在故障。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          },
+          "relationship": {
+            "identity": 86,
+            "start": 10,
+            "end": 60,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "点火线圏主供电源是由IRC2提供如图（1）所示，而IRC2是由主继电器来进行控制，只要点火开关处于ON档位置，主继电器就会一直提供12V电源给四个点火线圏，所以该线路没有问题。ECU主要是控制点火线圏的搭铁来控制点火线圈的工作情况，如 果，ECU内部故障即ECU的02号端子内部与搭铁端子常通或该线路中途常搭铁会导致三缸点 火线圈常工作。将ECU线束拔下后用万用表测量线束02端子的搭铁情况，测量发现线束搭 铁正常。再用万用表测量ECU的02号端子的搭铁情况，测量发现该端子常搭铁，正常是没 有点指令时该端子应与搭铁断开。再将点火开关断开，用同样的方法测量ECU的02号端子 的搭铁情况，发现该端子仍常搭铁，说明ECU内部存在故障。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "于是对ECU进行更换，更换后发现故障现象消失，发动机能够启动且故障码清除后不再出现， 验证是ECU的内部故障导致的上述现象。为了进一步证实是ECU内部故障导致的发动机无法 启动且伴随有三缸点火线圈烫手的故障现象。更换ECU后发动机工作一段时间再检査第三缸 点火线圈，点火线圈状态良好"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          },
+          "relationship": {
+            "identity": 87,
+            "start": 10,
+            "end": 61,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "于是对ECU进行更换，更换后发现故障现象消失，发动机能够启动且故障码清除后不再出现， 验证是ECU的内部故障导致的上述现象。为了进一步证实是ECU内部故障导致的发动机无法 启动且伴随有三缸点火线圈烫手的故障现象。更换ECU后发动机工作一段时间再检査第三缸 点火线圈，点火线圈状态良好"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 10,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404820"
+        }
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "将诊断仪进入发动机诊断程序，清除故障码。发动机怠速运行一段时间后故障码没有再次出 现。说明是ECU内部程序故障导致发动机无法启动。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 10,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404820"
+            }
+          },
+          "relationship": {
+            "identity": 88,
+            "start": 10,
+            "end": 62,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "将诊断仪进入发动机诊断程序，清除故障码。发动机怠速运行一段时间后故障码没有再次出 现。说明是ECU内部程序故障导致发动机无法启动。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406020"
+        }
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动.将钥匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P0335曲轴位置传感器线路无信号、P2106发动机性能限制、P0641ETC参考电压A#幅值故障、P0107进气压力传感器线路低电压或断路.故障码无法清除，执行故障码清除指令后，能清除P2106和P0641两个故障，P0335和P0107两个故障码仍然存在，发动机仍无法启动，从以上的故障码来看，可能是发动机曲轴位置传感器和进气压力传感器出现了故障，导致发动机无法检査相关的信号."
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406020"
+            }
+          },
+          "relationship": {
+            "identity": 92,
+            "start": 11,
+            "end": 63,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动.将钥匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P0335曲轴位置传感器线路无信号、P2106发动机性能限制、P0641ETC参考电压A#幅值故障、P0107进气压力传感器线路低电压或断路.故障码无法清除，执行故障码清除指令后，能清除P2106和P0641两个故障，P0335和P0107两个故障码仍然存在，发动机仍无法启动，从以上的故障码来看，可能是发动机曲轴位置传感器和进气压力传感器出现了故障，导致发动机无法检査相关的信号."
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406020"
+        }
+      },
+      "end": {
+        "identity": 64,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "发动机没有进气压力信号是不影响启动的，那么发动机不能启动很有可能是曲轴位置传感器及线路的问题.用诊断仪读取发动机动态数据流，启动时数据流显示发动机转速为0.说明ECU没有检测到发动机转速信号，正常情况，启动时发动机转速应该在200rpm左右.用万用表测量曲轴位置传感器的供电及搭铁情况，测量发现传感器搭铁正常，但供电压为0V,正常应为5V・再用万用表测量传感器到ECU间的线束导通情况，结果銭束连接正常.从ECU端测量ECU的18端子及曲轴位置传感器电压输出端子的电压，该竭子电压为0V,说明ECU没有输出电压给传感器・"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406020"
+            }
+          },
+          "relationship": {
+            "identity": 93,
+            "start": 11,
+            "end": 64,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 64,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "发动机没有进气压力信号是不影响启动的，那么发动机不能启动很有可能是曲轴位置传感器及线路的问题.用诊断仪读取发动机动态数据流，启动时数据流显示发动机转速为0.说明ECU没有检测到发动机转速信号，正常情况，启动时发动机转速应该在200rpm左右.用万用表测量曲轴位置传感器的供电及搭铁情况，测量发现传感器搭铁正常，但供电压为0V,正常应为5V・再用万用表测量传感器到ECU间的线束导通情况，结果銭束连接正常.从ECU端测量ECU的18端子及曲轴位置传感器电压输出端子的电压，该竭子电压为0V,说明ECU没有输出电压给传感器・"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3406020"
+        }
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "再仔细査阅相关资料，发现曲轴、进气压力、油门踏板位置等传感器的供电线在ECU内 部是公用的即V5REF1,如图（3）所示。所以很可能是其中某传感器内部或线束短路，使ECU内的公用电源1没有电。逐个拔相关传感器后再测量其传感器的供电电压，如果是传感器内 部短路，拔掉传感器线束后，其短路现象就会消除。当拔掉进气压力传感器线束时，各传感 器的供电电压都恢复正常为5V,再次插上进气压力传感器线束后，各传感器的电压再次变为 0V,到此可以判定，该故障是进气压力传感器内部短路导致的。于是拔掉进气压力传感器线 束，启动发动机（因为进气压力传感器不影响发动机启动），发动机能顺利启动，用诊断议读 取发动机故障码，故障码显示P0107进气压力传感器线路低电压或断路，这是传感器线束拔 掉了所致的故障。再用万用表测量传感器电源端子与搭铁端子间的电阻，电阻值只有0.5欧 姆，说明传感器内已经短路。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 11,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3406020"
+            }
+          },
+          "relationship": {
+            "identity": 94,
+            "start": 11,
+            "end": 65,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "再仔细査阅相关资料，发现曲轴、进气压力、油门踏板位置等传感器的供电线在ECU内 部是公用的即V5REF1,如图（3）所示。所以很可能是其中某传感器内部或线束短路，使ECU内的公用电源1没有电。逐个拔相关传感器后再测量其传感器的供电电压，如果是传感器内 部短路，拔掉传感器线束后，其短路现象就会消除。当拔掉进气压力传感器线束时，各传感 器的供电电压都恢复正常为5V,再次插上进气压力传感器线束后，各传感器的电压再次变为 0V,到此可以判定，该故障是进气压力传感器内部短路导致的。于是拔掉进气压力传感器线 束，启动发动机（因为进气压力传感器不影响发动机启动），发动机能顺利启动，用诊断议读 取发动机故障码，故障码显示P0107进气压力传感器线路低电压或断路，这是传感器线束拔 掉了所致的故障。再用万用表测量传感器电源端子与搭铁端子间的电阻，电阻值只有0.5欧 姆，说明传感器内已经短路。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 12,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GBW油机无法启动",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3405120"
+        }
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 12,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GBW油机无法启动",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3405120"
+            }
+          },
+          "relationship": {
+            "identity": 99,
+            "start": 12,
+            "end": 66,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机异响,专营店反馈一台同悦自产4GB发动机转速在1700转/分钟车辆在2档、3挡、4档发 动机急加速时车辆右前侧卡卡异响（响声就像是汽油不达标发动机急加速时发动机爆震敲缸时的 声音）正常行驶后超过1700转时车辆正常",
+          "km": 3996,
+          "model": "GG010",
+          "id": 93400951
+        }
+      },
+      "end": {
+        "identity": 67,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "1.拆除发动机前后支撑垫路试异响声音没有变化：2.装复发动机前后支撑垫，拆除发动机左右支撑垫后路试异响声音没有变化：3.拆除发动机排气歧管隔热罩、催化剂隔热罩、排气管隔热罩路试异响声音没有变化：4.将ECU数据改为驾驶性比较柔和的版本试车，异响声音没有变化：5.拆下整车上排气管隔热罩以后再进行试车，异响声音没有变化："
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机异响,专营店反馈一台同悦自产4GB发动机转速在1700转/分钟车辆在2档、3挡、4档发 动机急加速时车辆右前侧卡卡异响（响声就像是汽油不达标发动机急加速时发动机爆震敲缸时的 声音）正常行驶后超过1700转时车辆正常",
+              "km": 3996,
+              "model": "GG010",
+              "id": 93400951
+            }
+          },
+          "relationship": {
+            "identity": 106,
+            "start": 13,
+            "end": 67,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 67,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "1.拆除发动机前后支撑垫路试异响声音没有变化：2.装复发动机前后支撑垫，拆除发动机左右支撑垫后路试异响声音没有变化：3.拆除发动机排气歧管隔热罩、催化剂隔热罩、排气管隔热罩路试异响声音没有变化：4.将ECU数据改为驾驶性比较柔和的版本试车，异响声音没有变化：5.拆下整车上排气管隔热罩以后再进行试车，异响声音没有变化："
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB发动机异响,专营店反馈一台同悦自产4GB发动机转速在1700转/分钟车辆在2档、3挡、4档发 动机急加速时车辆右前侧卡卡异响（响声就像是汽油不达标发动机急加速时发动机爆震敲缸时的 声音）正常行驶后超过1700转时车辆正常",
+          "km": 3996,
+          "model": "GG010",
+          "id": 93400951
+        }
+      },
+      "end": {
+        "identity": 68,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "1、\t拆下发动机上的动力转向泵皮带再进行试车，异响声音没有变化：2、\t拆下发动机上的发电机皮带后再进行试车，发现异响声音消失，再将发电机皮带装上以后, 异响声音再次出现，说明该异响声音与发电机皮带以及该皮带所带的相关部件有关：3、\t检查该皮带所带的相关部件，没有发现明显的异常情况，于是决定从简单的入手逐个排査。4、\t更换发电机皮带，更换后异响声音消失，说明是发电机皮带、皮带张紧力、皮带轮等因素导 致的异响。首先将旧的发电机皮带再次安装上进行试验，结果发现异响声音也随之消失。由此分 析：发电机带和皮带轮都没有变化，唯一改变的就是在安装旧皮带时皮带张紧力发生了变化。5、\t于是对皮带张紧力重新进行调节，减小张紧力后再进行试车发现异响声音再次出现，说明该 响声与皮带张紧力有关系。用皮带张力器测量皮带张力，看张力小于多少时会发出该响声，验证 发现，当张力小于350N. m时就会发出响声。6、\t同样的张紧力在别的机型上都没有问题，如4GA发动机皮带张力小于250 N.m时都不会发出响 声，可能和皮带轮有一定的关系，于是将水泵皮带轮进行更换，更换后皮带张紧力小于350N. m 时声音正常，没有异响声发出。从以上故障的排除情况来看，此异响可能是皮带与皮带轮之间的 配合出现了问题。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB发动机异响,专营店反馈一台同悦自产4GB发动机转速在1700转/分钟车辆在2档、3挡、4档发 动机急加速时车辆右前侧卡卡异响（响声就像是汽油不达标发动机急加速时发动机爆震敲缸时的 声音）正常行驶后超过1700转时车辆正常",
+              "km": 3996,
+              "model": "GG010",
+              "id": 93400951
+            }
+          },
+          "relationship": {
+            "identity": 107,
+            "start": 13,
+            "end": 68,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 68,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "1、\t拆下发动机上的动力转向泵皮带再进行试车，异响声音没有变化：2、\t拆下发动机上的发电机皮带后再进行试车，发现异响声音消失，再将发电机皮带装上以后, 异响声音再次出现，说明该异响声音与发电机皮带以及该皮带所带的相关部件有关：3、\t检查该皮带所带的相关部件，没有发现明显的异常情况，于是决定从简单的入手逐个排査。4、\t更换发电机皮带，更换后异响声音消失，说明是发电机皮带、皮带张紧力、皮带轮等因素导 致的异响。首先将旧的发电机皮带再次安装上进行试验，结果发现异响声音也随之消失。由此分 析：发电机带和皮带轮都没有变化，唯一改变的就是在安装旧皮带时皮带张紧力发生了变化。5、\t于是对皮带张紧力重新进行调节，减小张紧力后再进行试车发现异响声音再次出现，说明该 响声与皮带张紧力有关系。用皮带张力器测量皮带张力，看张力小于多少时会发出该响声，验证 发现，当张力小于350N. m时就会发出响声。6、\t同样的张紧力在别的机型上都没有问题，如4GA发动机皮带张力小于250 N.m时都不会发出响 声，可能和皮带轮有一定的关系，于是将水泵皮带轮进行更换，更换后皮带张紧力小于350N. m 时声音正常，没有异响声发出。从以上故障的排除情况来看，此异响可能是皮带与皮带轮之间的 配合出现了问题。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机异响严重,总装二厂返修人员反映一台同悦白产4GB汽油发动机怠速异响严重，将诊断仪进入 诊断程序，读取发动机故障码显示无故障。",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404921"
+        }
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "因为发动机在怠速运行时发出类似喷油器开闭声音的异响声，针对此故障现象进行判缸试 验，将四个紅的喷油器线束依次拔下，当将第一缸的喷油器线束拔下时发现异响声明显减小。于 是对油压导轨和喷油器进行更换，更换后发现故障现象依旧，排除异响声是由喷油器发出的。再 次对故障现象进行分析，因为将第一缸喷油器线束拔下后发动机异响声明显减小，说明该异响声 与第一紅的燃烧情况有一定的关系即有可能是第一缸燃烧时发动机的声音。进一步分析，喷油器 及燃油导轨己经更换，可以排除燃油系统故障。若点火线圏点火不良也会导致发动机燃烧情况恶化，导致发动机异响，更换点火线圏及火花塞等点火系统组件后故障现象依旧，排除异响声是由 点火系统点火不良造成的。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机异响严重,总装二厂返修人员反映一台同悦白产4GB汽油发动机怠速异响严重，将诊断仪进入 诊断程序，读取发动机故障码显示无故障。",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404921"
+            }
+          },
+          "relationship": {
+            "identity": 109,
+            "start": 14,
+            "end": 69,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "因为发动机在怠速运行时发出类似喷油器开闭声音的异响声，针对此故障现象进行判缸试 验，将四个紅的喷油器线束依次拔下，当将第一缸的喷油器线束拔下时发现异响声明显减小。于 是对油压导轨和喷油器进行更换，更换后发现故障现象依旧，排除异响声是由喷油器发出的。再 次对故障现象进行分析，因为将第一缸喷油器线束拔下后发动机异响声明显减小，说明该异响声 与第一紅的燃烧情况有一定的关系即有可能是第一缸燃烧时发动机的声音。进一步分析，喷油器 及燃油导轨己经更换，可以排除燃油系统故障。若点火线圏点火不良也会导致发动机燃烧情况恶化，导致发动机异响，更换点火线圏及火花塞等点火系统组件后故障现象依旧，排除异响声是由 点火系统点火不良造成的。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "4GB汽油机异响严重,总装二厂返修人员反映一台同悦白产4GB汽油发动机怠速异响严重，将诊断仪进入 诊断程序，读取发动机故障码显示无故障。",
+          "km": 0,
+          "model": "GG010",
+          "id": "A3404921"
+        }
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "从以上的排査进一步分析，影响发动机燃烧除了点火与喷油的因素外，还有进排气系统 也是其中的一个重要因素。于是针对分析的结 果进行故障排査，检査排气管是否存在漏气现 象，仔细观察第一缸排气管周围发现排气管外 部有少量积碳，可能是因为漏气导致，拆下排 气管总成后发现第一缸支管的排气端而上和排 气管垫片处有积碳，如图所示而其他三个支管 上没有类似现象，说明第一缸存在排气漏气的 现象。更换后，将发动机恢复，再次启动让发动机怠速运行，异响声消失。至此说明是排气管第 -支管漏气造成的发动机异响。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "4GB汽油机异响严重,总装二厂返修人员反映一台同悦白产4GB汽油发动机怠速异响严重，将诊断仪进入 诊断程序，读取发动机故障码显示无故障。",
+              "km": 0,
+              "model": "GG010",
+              "id": "A3404921"
+            }
+          },
+          "relationship": {
+            "identity": 110,
+            "start": 14,
+            "end": 70,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "从以上的排査进一步分析，影响发动机燃烧除了点火与喷油的因素外，还有进排气系统 也是其中的一个重要因素。于是针对分析的结 果进行故障排査，检査排气管是否存在漏气现 象，仔细观察第一缸排气管周围发现排气管外 部有少量积碳，可能是因为漏气导致，拆下排 气管总成后发现第一缸支管的排气端而上和排 气管垫片处有积碳，如图所示而其他三个支管 上没有类似现象，说明第一缸存在排气漏气的 现象。更换后，将发动机恢复，再次启动让发动机怠速运行，异响声消失。至此说明是排气管第 -支管漏气造成的发动机异响。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+          "km": 380,
+          "model": "GG010",
+          "id": 93400637
+        }
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "到店时专营店已经将发动机缸盖拆下来了。从外表可以很清晰的看到第三紅活塞头部有很多 被颗粒掩击的痕迹，再检查缸盖时发现第三缸缸盖表而也有很多被颗粒撞击的痕迹。所以初步判 断是气紅内进入杂质而导致发动机异响，问专营店在拆缸盖时有没有发现小颗粒之类的杂质。专 营店表示在拆缸盖时没有注意，拆下后也没有发现什么颗粒。但从活塞头部及紅盖表面的撞击痕 迹可以看岀，杂质进入气缸后，活塞上下运动使杂质对活塞及紅盖产生撞击，导致活塞头部和缸 盖表面撞击痕迹的产生。从撞击痕迹来看，该杂质的硬度较高。对发动机及整车进气管路进行了检查，空气滤清器很 干净且无破损，管路内也没有发现什么可疑的杂质。进一步检査时发现第三缸已经拉伤，且较为 严重，气缸壁周围有一条条较深的拉痕。将第三紅活塞拆下进行检查，连杆轴瓦完好无拉瓦现象， 但活塞四周也被拉伤。活塞表面虽被拉伤，但无高温烧结现象，说明不是缺水导致发动机拉缸。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+              "km": 380,
+              "model": "GG010",
+              "id": 93400637
+            }
+          },
+          "relationship": {
+            "identity": 112,
+            "start": 15,
+            "end": 71,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "到店时专营店已经将发动机缸盖拆下来了。从外表可以很清晰的看到第三紅活塞头部有很多 被颗粒掩击的痕迹，再检查缸盖时发现第三缸缸盖表而也有很多被颗粒撞击的痕迹。所以初步判 断是气紅内进入杂质而导致发动机异响，问专营店在拆缸盖时有没有发现小颗粒之类的杂质。专 营店表示在拆缸盖时没有注意，拆下后也没有发现什么颗粒。但从活塞头部及紅盖表面的撞击痕 迹可以看岀，杂质进入气缸后，活塞上下运动使杂质对活塞及紅盖产生撞击，导致活塞头部和缸 盖表面撞击痕迹的产生。从撞击痕迹来看，该杂质的硬度较高。对发动机及整车进气管路进行了检查，空气滤清器很 干净且无破损，管路内也没有发现什么可疑的杂质。进一步检査时发现第三缸已经拉伤，且较为 严重，气缸壁周围有一条条较深的拉痕。将第三紅活塞拆下进行检查，连杆轴瓦完好无拉瓦现象， 但活塞四周也被拉伤。活塞表面虽被拉伤，但无高温烧结现象，说明不是缺水导致发动机拉缸。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "phenomenon"
+        ],
+        "properties": {
+          "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+          "km": 380,
+          "model": "GG010",
+          "id": 93400637
+        }
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "轴瓦完好无拉瓦现象说明不是因为缺少机油而导致发动机拉紅，从气紅及活塞拉痕来看，可能是 活塞环断裂所至。后检査活塞时发现，活塞环油环的下刮片已经断裂，并且有部分碎片粘连在活 塞表面。活塞环断裂后碎片就会错位，可能卡在活塞环槽内或粘连在活塞表面，活塞上下运动的过程 中，带动活塞环碎片上下运动，导致气缸及活塞拉伤，有部分碎片可能会伴随活塞运动进入气紅， 从而导致活塞头部及缸盖表而被撞击，产生撞击痕迹。该车在上完牌照后就发现有异响，车主反应在上牌前没怎么用，所以也没有注意发动机声音，车主反应发动机异响时，行驶里程只有90KM,所以该车出厂前活塞环可能已经断裂.在安装活环时，油环是第一个被压入气缸内的，因此油环在压入的过程中活塞的导向性较差易歪斜，这样油环压入时的冲击力最大，随着活塞的逐渐压入，其导向性也随之加强，第二道气环压入时的冲击力也会减小，同理第一道气环的冲击力最小，所以，该发动机可能是在安装活塞时活塞环就已经产生了裂纹或者是活塞环本身就有裂纹."
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "phenomenon"
+            ],
+            "properties": {
+              "name": "发动机异响,专营店反馈一台车同悦车启动后发动机内有异响，专营店技师拆下正时链条、凸轮轴、气门 顶筒等部件没发现任何造成异响的原因，检査气门间隙和气缸压力都在正常范围内，没有明显问 题，专营店技师对此VVT发动机产生的问题暂无解决办法，",
+              "km": 380,
+              "model": "GG010",
+              "id": 93400637
+            }
+          },
+          "relationship": {
+            "identity": 113,
+            "start": 15,
+            "end": 72,
+            "type": "because",
+            "properties": {
+              "name": "原因有"
+            }
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "轴瓦完好无拉瓦现象说明不是因为缺少机油而导致发动机拉紅，从气紅及活塞拉痕来看，可能是 活塞环断裂所至。后检査活塞时发现，活塞环油环的下刮片已经断裂，并且有部分碎片粘连在活 塞表面。活塞环断裂后碎片就会错位，可能卡在活塞环槽内或粘连在活塞表面，活塞上下运动的过程 中，带动活塞环碎片上下运动，导致气缸及活塞拉伤，有部分碎片可能会伴随活塞运动进入气紅， 从而导致活塞头部及缸盖表而被撞击，产生撞击痕迹。该车在上完牌照后就发现有异响，车主反应在上牌前没怎么用，所以也没有注意发动机声音，车主反应发动机异响时，行驶里程只有90KM,所以该车出厂前活塞环可能已经断裂.在安装活环时，油环是第一个被压入气缸内的，因此油环在压入的过程中活塞的导向性较差易歪斜，这样油环压入时的冲击力最大，随着活塞的逐渐压入，其导向性也随之加强，第二道气环压入时的冲击力也会减小，同理第一道气环的冲击力最小，所以，该发动机可能是在安装活塞时活塞环就已经产生了裂纹或者是活塞环本身就有裂纹."
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "1、进气凸轮轴OCV阀工作不良。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 55,
+            "start": 54,
+            "end": 73,
+            "type": "case1",
+            "properties": {
+              "name": "案例 1"
+            }
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "1、进气凸轮轴OCV阀工作不良。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 74,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "2、电子节气门开度出现问题或不能正常开启"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 56,
+            "start": 54,
+            "end": 74,
+            "type": "case2",
+            "properties": {
+              "name": "案例 2"
+            }
+          },
+          "end": {
+            "identity": 74,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "2、电子节气门开度出现问题或不能正常开启"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 75,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "3、进气系统漏气。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 57,
+            "start": 54,
+            "end": 75,
+            "type": "case3",
+            "properties": {
+              "name": "案例 3"
+            }
+          },
+          "end": {
+            "identity": 75,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "3、进气系统漏气。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 76,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "4、\t进气压力传感器故障，输出压力失真。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 58,
+            "start": 54,
+            "end": 76,
+            "type": "case4",
+            "properties": {
+              "name": "案例 4"
+            }
+          },
+          "end": {
+            "identity": 76,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "4、\t进气压力传感器故障，输出压力失真。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 77,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "5、\t燃油喷射系统故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 59,
+            "start": 54,
+            "end": 77,
+            "type": "case5",
+            "properties": {
+              "name": "案例 5"
+            }
+          },
+          "end": {
+            "identity": 77,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "5、\t燃油喷射系统故障"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 78,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "6、点火系统故障。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 60,
+            "start": 54,
+            "end": 78,
+            "type": "case6",
+            "properties": {
+              "name": "案例 6"
+            }
+          },
+          "end": {
+            "identity": 78,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "6、点火系统故障。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 79,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "7、\t排气系统堵塞导致排气不良，进气出现回气现象，进气压力过大。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 61,
+            "start": 54,
+            "end": 79,
+            "type": "case7",
+            "properties": {
+              "name": "案例 7"
+            }
+          },
+          "end": {
+            "identity": 79,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "7、\t排气系统堵塞导致排气不良，进气出现回气现象，进气压力过大。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 80,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "8、\t进气凸轮轴本身的质量问题及其VCP调节器岀现问题。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 62,
+            "start": 54,
+            "end": 80,
+            "type": "case8",
+            "properties": {
+              "name": "案例 8"
+            }
+          },
+          "end": {
+            "identity": 80,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "8、\t进气凸轮轴本身的质量问题及其VCP调节器岀现问题。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "9、\t曲轴信号轮位置或本身出现问题，导致曲轴位置信号失真"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 63,
+            "start": 54,
+            "end": 81,
+            "type": "case9",
+            "properties": {
+              "name": "案例 9"
+            }
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "9、\t曲轴信号轮位置或本身出现问题，导致曲轴位置信号失真"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+        }
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "10、发动机正时机构出现错误。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用431诊断议读取发动机相关数据流，发现有部分数据存在问题，具体数据如下：1、进气 凸轮轴位置执行器期望位置与进气凸轮轴位置执行器实际位置分别为0和6,相差较大.2、进气岐管绝对压力偏高85kPa以上，怠速时正常的数值应为35—45kPa° 3、短期燃油 修正和长期燃油修正值偏高分别为102.34%与103.91%。4、喷油脉宽偏高为7ms,怠速时正常值 应为2ms左右"
+            }
+          },
+          "relationship": {
+            "identity": 64,
+            "start": 54,
+            "end": 82,
+            "type": "case10",
+            "properties": {
+              "name": "案例 10"
+            }
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "10、发动机正时机构出现错误。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 56,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "分析发动机点火，喷油线朿，是从主继电器过去的：这时 用万用表检测主继电器的各个针脚的电压，发现主继电器的各个针脚的电压都是正常的，但是主 继电器安装时不吸合。"
+        }
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 56,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "分析发动机点火，喷油线朿，是从主继电器过去的：这时 用万用表检测主继电器的各个针脚的电压，发现主继电器的各个针脚的电压都是正常的，但是主 继电器安装时不吸合。"
+            }
+          },
+          "relationship": {
+            "identity": 80,
+            "start": 56,
+            "end": 83,
+            "type": "analyze",
+            "properties": {
+              "name": "分析"
+            }
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 57,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检测ECU94号针脚和主继电器是否是导通的，利用万用表的导通性 检测主继电器和ECU是否导通：经检测主继电器和ECU是导通的。"
+        }
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 57,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检测ECU94号针脚和主继电器是否是导通的，利用万用表的导通性 检测主继电器和ECU是否导通：经检测主继电器和ECU是导通的。"
+            }
+          },
+          "relationship": {
+            "identity": 81,
+            "start": 57,
+            "end": 83,
+            "type": "analyze",
+            "properties": {
+              "name": "分析"
+            }
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 58,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "该车前期发生过失火故障，有可能干粉灭火器在灭火时干粉妨碍了发动机搭铁线的良好的导 通性，于是将发动机搭铁线拆下清理后再装上，发现发动机能启动良好，但是还不能连续启动。 当将发动机搭铁线处清理干净后，该发动机就能正常启动"
+        }
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 58,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "该车前期发生过失火故障，有可能干粉灭火器在灭火时干粉妨碍了发动机搭铁线的良好的导 通性，于是将发动机搭铁线拆下清理后再装上，发现发动机能启动良好，但是还不能连续启动。 当将发动机搭铁线处清理干净后，该发动机就能正常启动"
+            }
+          },
+          "relationship": {
+            "identity": 82,
+            "start": 58,
+            "end": 83,
+            "type": "analyze",
+            "properties": {
+              "name": "分析"
+            }
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 55,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "根据现场返修人员反映的现象进行验证，启动发动机后发动机运行正常，再次连续启动时 发现发动机无法启动。用万用表检测发动机点火线束发现点火线束没有电压，再检测发动机喷油 线束发现喷油线束也没有电压。"
+        }
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 55,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "根据现场返修人员反映的现象进行验证，启动发动机后发动机运行正常，再次连续启动时 发现发动机无法启动。用万用表检测发动机点火线束发现点火线束没有电压，再检测发动机喷油 线束发现喷油线束也没有电压。"
+            }
+          },
+          "relationship": {
+            "identity": 79,
+            "start": 55,
+            "end": 83,
+            "type": "analyze",
+            "properties": {
+              "name": "分析"
+            }
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 66,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+        }
+      },
+      "end": {
+        "identity": 84,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "根据以上信息，首先对电子油门、电子节气门，制动踏板等相关部件进行外观检査，检 査未发现明显外观损坏的情况。使用431诊断议读取以上相关部件的信号数据，不踩油门时 电子油门踏板位置传感器1信号和2信号分别为0%与0%,油门踏板位置信号也为0%均正常, 正常值是不踩油门时三者均为0。将油门踩到底时，油门踏板信号为100%正常，将油门踩到 底时正常值是100%,从以上数据说明电子油门踏板正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 66,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+            }
+          },
+          "relationship": {
+            "identity": 100,
+            "start": 66,
+            "end": 84,
+            "type": "case1",
+            "properties": {
+              "name": "案例1"
+            }
+          },
+          "end": {
+            "identity": 84,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "根据以上信息，首先对电子油门、电子节气门，制动踏板等相关部件进行外观检査，检 査未发现明显外观损坏的情况。使用431诊断议读取以上相关部件的信号数据，不踩油门时 电子油门踏板位置传感器1信号和2信号分别为0%与0%,油门踏板位置信号也为0%均正常, 正常值是不踩油门时三者均为0。将油门踩到底时，油门踏板信号为100%正常，将油门踩到 底时正常值是100%,从以上数据说明电子油门踏板正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 66,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+        }
+      },
+      "end": {
+        "identity": 85,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "不踩油门时，诊断议显示：ETC显示节气门位置信号为92. 99%, ETC节气门位置传感器#1信号为71. 76%, ETC节气门位置传感器#2信号为71. 62%。这三个数据均不 正常，不踩油门时正常值应分别是：10%, 7. 5%, 7%左右，说明电子节气门位置传感器信号岀现了严重的错误。再将油门踩到底时，发现以上三项数据变成了怠速时的正常值，分别为12. 69%. 9. 67%, 9. 05%,如图(2)所示，而在该情况下的正常值应分别为：95. 5%, 73. 5%, 73% 左右。从以上的数据可以看出，电子节气门位置传感器1信号与2信号之间可能出现了传输 错误即信号1与信号2互相颠倒。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 66,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+            }
+          },
+          "relationship": {
+            "identity": 101,
+            "start": 66,
+            "end": 85,
+            "type": "case2",
+            "properties": {
+              "name": "案例2"
+            }
+          },
+          "end": {
+            "identity": 85,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "不踩油门时，诊断议显示：ETC显示节气门位置信号为92. 99%, ETC节气门位置传感器#1信号为71. 76%, ETC节气门位置传感器#2信号为71. 62%。这三个数据均不 正常，不踩油门时正常值应分别是：10%, 7. 5%, 7%左右，说明电子节气门位置传感器信号岀现了严重的错误。再将油门踩到底时，发现以上三项数据变成了怠速时的正常值，分别为12. 69%. 9. 67%, 9. 05%,如图(2)所示，而在该情况下的正常值应分别为：95. 5%, 73. 5%, 73% 左右。从以上的数据可以看出，电子节气门位置传感器1信号与2信号之间可能出现了传输 错误即信号1与信号2互相颠倒。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 66,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+        }
+      },
+      "end": {
+        "identity": 86,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "用万用表测量ECU接收到的节气门位置传感器1与传感器2的电压信号,怠速时，65号端子的电压为4. 58V, 66号端 子的电压为0. 39V,两个信号电压都不正常， 正好颠倒了，正常情况是66号端子电压较 高在4. 5-5V之间，而65号端子电压较低 0.5V左右。这说明，ECU接收了错误的节气 门位置信号，那么这错误的节气门信号是节 气位置传感器发出的，还是线束传输有问题呢？于是对线束和电子节气门进行排査。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 66,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "到现场后根据现场返修人员反映的现象进行验证，将发动机多次点火仍无法启动。将钥 匙打到ON档，诊断仪进入诊断程序后读取故障码，故障码显示：P2105发动机强制停机， 该故障码无法清除。从故障码看，可能是ECU检测到发动机有其它严重故障，为保护发动机, 导致ECU强制发动机停机。从査阅相关资料发现，当发动机岀现全安性相关(如电子油门踏 板、电子节气门、刹车信号等)故障时，考虑安全因素，ECU会进入强制停机模式。"
+            }
+          },
+          "relationship": {
+            "identity": 102,
+            "start": 66,
+            "end": 86,
+            "type": "case3",
+            "properties": {
+              "name": "案例3"
+            }
+          },
+          "end": {
+            "identity": 86,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "用万用表测量ECU接收到的节气门位置传感器1与传感器2的电压信号,怠速时，65号端子的电压为4. 58V, 66号端 子的电压为0. 39V,两个信号电压都不正常， 正好颠倒了，正常情况是66号端子电压较 高在4. 5-5V之间，而65号端子电压较低 0.5V左右。这说明，ECU接收了错误的节气 门位置信号，那么这错误的节气门信号是节 气位置传感器发出的，还是线束传输有问题呢？于是对线束和电子节气门进行排査。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "用万用表测量ECU接收到的节气门位置传感器1与传感器2的电压信号,怠速时，65号端子的电压为4. 58V, 66号端 子的电压为0. 39V,两个信号电压都不正常， 正好颠倒了，正常情况是66号端子电压较 高在4. 5-5V之间，而65号端子电压较低 0.5V左右。这说明，ECU接收了错误的节气 门位置信号，那么这错误的节气门信号是节 气位置传感器发出的，还是线束传输有问题呢？于是对线束和电子节气门进行排査。"
+        }
+      },
+      "end": {
+        "identity": 87,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "首先测量电子节气门传感器输出的电压信号。当电子节气门关闭时，节气门位置传感器1 和传感器2输岀的电压正常值分别是0. 5V和4. 5V左右，电压会随节气开度的变化而变化， 开度增大，节气门位置传感器1的电压上升，而节气门位置传感器2的电压则会下降。节气 门关闭时，用万用表测量节气门两位置传感器输出电压端子D和E。D端子 电压为0.39V, E端子电压为4.58V,在正常范围内，当节气门开度上升时，D端子电压随之 增加，而E端子电压随之降低，也在正常范围内，说明电子节气门位置传感器正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "用万用表测量ECU接收到的节气门位置传感器1与传感器2的电压信号,怠速时，65号端子的电压为4. 58V, 66号端 子的电压为0. 39V,两个信号电压都不正常， 正好颠倒了，正常情况是66号端子电压较 高在4. 5-5V之间，而65号端子电压较低 0.5V左右。这说明，ECU接收了错误的节气 门位置信号，那么这错误的节气门信号是节 气位置传感器发出的，还是线束传输有问题呢？于是对线束和电子节气门进行排査。"
+            }
+          },
+          "relationship": {
+            "identity": 103,
+            "start": 86,
+            "end": 87,
+            "type": "case1",
+            "properties": {
+              "name": "案例1"
+            }
+          },
+          "end": {
+            "identity": 87,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "首先测量电子节气门传感器输出的电压信号。当电子节气门关闭时，节气门位置传感器1 和传感器2输岀的电压正常值分别是0. 5V和4. 5V左右，电压会随节气开度的变化而变化， 开度增大，节气门位置传感器1的电压上升，而节气门位置传感器2的电压则会下降。节气 门关闭时，用万用表测量节气门两位置传感器输出电压端子D和E。D端子 电压为0.39V, E端子电压为4.58V,在正常范围内，当节气门开度上升时，D端子电压随之 增加，而E端子电压随之降低，也在正常范围内，说明电子节气门位置传感器正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "用万用表测量ECU接收到的节气门位置传感器1与传感器2的电压信号,怠速时，65号端子的电压为4. 58V, 66号端 子的电压为0. 39V,两个信号电压都不正常， 正好颠倒了，正常情况是66号端子电压较 高在4. 5-5V之间，而65号端子电压较低 0.5V左右。这说明，ECU接收了错误的节气 门位置信号，那么这错误的节气门信号是节 气位置传感器发出的，还是线束传输有问题呢？于是对线束和电子节气门进行排査。"
+        }
+      },
+      "end": {
+        "identity": 88,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "电子节气门位置传感器输出的电压正常，但ECU接反到的却是颠倒的电压信号，说明信 号传输过程出现了问题。于是检査线束的状态，在检査过程中发现电子节气门位置传感器线 束端子颠倒，也就是位置传感器1端子与位置传感器2端子颠倒，导致信号传输颠倒，使发 动机无法启动"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "用万用表测量ECU接收到的节气门位置传感器1与传感器2的电压信号,怠速时，65号端子的电压为4. 58V, 66号端 子的电压为0. 39V,两个信号电压都不正常， 正好颠倒了，正常情况是66号端子电压较 高在4. 5-5V之间，而65号端子电压较低 0.5V左右。这说明，ECU接收了错误的节气 门位置信号，那么这错误的节气门信号是节 气位置传感器发出的，还是线束传输有问题呢？于是对线束和电子节气门进行排査。"
+            }
+          },
+          "relationship": {
+            "identity": 104,
+            "start": 86,
+            "end": 88,
+            "type": "case2",
+            "properties": {
+              "name": "案例2"
+            }
+          },
+          "end": {
+            "identity": 88,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "电子节气门位置传感器输出的电压正常，但ECU接反到的却是颠倒的电压信号，说明信 号传输过程出现了问题。于是检査线束的状态，在检査过程中发现电子节气门位置传感器线 束端子颠倒，也就是位置传感器1端子与位置传感器2端子颠倒，导致信号传输颠倒，使发 动机无法启动"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "无法正常开启"
+        }
+      },
+      "end": {
+        "identity": 89,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换节气门"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "无法正常开启"
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 20,
+            "end": 89,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 89,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换节气门"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 18,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "电子节气门"
+        }
+      },
+      "end": {
+        "identity": 89,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换节气门"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 18,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "电子节气门"
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 18,
+            "end": 89,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 89,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换节气门"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "ECU程序"
+        }
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "修改程序"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "ECU程序"
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 16,
+            "end": 90,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "修改程序"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 19,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "传感器"
+        }
+      },
+      "end": {
+        "identity": 91,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换传感器"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 19,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "传感器"
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 19,
+            "end": 91,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 91,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换传感器"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "线束问题"
+        }
+      },
+      "end": {
+        "identity": 92,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "修复线束"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 22,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "线束问题"
+            }
+          },
+          "relationship": {
+            "identity": 12,
+            "start": 22,
+            "end": 92,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 92,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "修复线束"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "点火线圈"
+        }
+      },
+      "end": {
+        "identity": 93,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换点火线圈"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "点火线圈"
+            }
+          },
+          "relationship": {
+            "identity": 13,
+            "start": 23,
+            "end": 93,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 93,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换点火线圈"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "由于怠速时进气凸轮轴配气相位角过大导致发动机进气不 良怠速抖动，即进气提前角过过于提前，气缸内部分气体回到进气管，使进气管绝对压力 増加并产生“突，突,突”的声音。而进气凸轮轴配气相位角是由ECU通过VCP气门正时调节器和OCV液压控制阀来进行控制的。当OCV液压控制阀卡滞在100%的位置时，就会导 致VCP气门正时调节器将进气凸轮轴配气相位角调整至最大。而在高档位换成空档的时候容易熄火也有可能是由进气相位过大造成的"
+        }
+      },
+      "end": {
+        "identity": 94,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换液压控制阀后，起动发动机，发动机抖动消失，“突，突，突”的声音也随之消失。 再用诊断议观察发动机数据流，各项数据正常。然后由专营店技术人员开车上路试车，路 试25公里，发动机性能较好，怠速稳定，试车过程中故意经常换档或挂空档，没有岀现反 馈的高档位换空档容易熄火的现象，观察数据流显示正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "由于怠速时进气凸轮轴配气相位角过大导致发动机进气不 良怠速抖动，即进气提前角过过于提前，气缸内部分气体回到进气管，使进气管绝对压力 増加并产生“突，突,突”的声音。而进气凸轮轴配气相位角是由ECU通过VCP气门正时调节器和OCV液压控制阀来进行控制的。当OCV液压控制阀卡滞在100%的位置时，就会导 致VCP气门正时调节器将进气凸轮轴配气相位角调整至最大。而在高档位换成空档的时候容易熄火也有可能是由进气相位过大造成的"
+            }
+          },
+          "relationship": {
+            "identity": 16,
+            "start": 25,
+            "end": 94,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 94,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换液压控制阀后，起动发动机，发动机抖动消失，“突，突，突”的声音也随之消失。 再用诊断议观察发动机数据流，各项数据正常。然后由专营店技术人员开车上路试车，路 试25公里，发动机性能较好，怠速稳定，试车过程中故意经常换档或挂空档，没有岀现反 馈的高档位换空档容易熄火的现象，观察数据流显示正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "拆下第三缸点火线圈和火花塞，检査点火线圏，未发现明显的破损等损坏现象。再检査火花塞，火花塞无积碳，颜色较浅且上面附着大量透明液体，从火花塞积碳和颜色可以看出 第三缸没有参与燃烧。从火花塞上面附着的大量透明液体气味可以看出，该液体为汽油，说 明第三缸已经喷油，但从火花塞上面附着的汽油量来看，喷油的量有点多，再从火花塞孔看 气缸内的情况，气紅内有大量汽油，可以基本确定第三缸的喷油量较多。但第三缸线束前面 已经检査过，没有问题，难道是喷油器的问题？于是拆下燃油导轨和喷油器，然后将点火开 关打到ON档，使燃油导轨内产生压力。当燃油导轨内有压力后第三缸喷油器开始常喷油，将 第三缸喷油器线束拔掉后，喷油器仍常喷油，这说明是喷油器内部卡滞，无法回位，导致常 喷油。"
+        }
+      },
+      "end": {
+        "identity": 95,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对第三缸喷油器进行更换，安装并插接好线束后启动发动机，发动机怠速时工作平稳， 没有抖动的现象出现，灰白色烟现象消失，排气管排烟正常，用诊断议读取发动机故障，诊 断议显示无故障。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "拆下第三缸点火线圈和火花塞，检査点火线圏，未发现明显的破损等损坏现象。再检査火花塞，火花塞无积碳，颜色较浅且上面附着大量透明液体，从火花塞积碳和颜色可以看出 第三缸没有参与燃烧。从火花塞上面附着的大量透明液体气味可以看出，该液体为汽油，说 明第三缸已经喷油，但从火花塞上面附着的汽油量来看，喷油的量有点多，再从火花塞孔看 气缸内的情况，气紅内有大量汽油，可以基本确定第三缸的喷油量较多。但第三缸线束前面 已经检査过，没有问题，难道是喷油器的问题？于是拆下燃油导轨和喷油器，然后将点火开 关打到ON档，使燃油导轨内产生压力。当燃油导轨内有压力后第三缸喷油器开始常喷油，将 第三缸喷油器线束拔掉后，喷油器仍常喷油，这说明是喷油器内部卡滞，无法回位，导致常 喷油。"
+            }
+          },
+          "relationship": {
+            "identity": 21,
+            "start": 28,
+            "end": 95,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 95,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对第三缸喷油器进行更换，安装并插接好线束后启动发动机，发动机怠速时工作平稳， 没有抖动的现象出现，灰白色烟现象消失，排气管排烟正常，用诊断议读取发动机故障，诊 断议显示无故障。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 26,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对发动机进行断缸试验，发现第三缸工作不良，其它三缸无异常情 况，工作基本正常。"
+        }
+      },
+      "end": {
+        "identity": 95,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对第三缸喷油器进行更换，安装并插接好线束后启动发动机，发动机怠速时工作平稳， 没有抖动的现象出现，灰白色烟现象消失，排气管排烟正常，用诊断议读取发动机故障，诊 断议显示无故障。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 26,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对发动机进行断缸试验，发现第三缸工作不良，其它三缸无异常情 况，工作基本正常。"
+            }
+          },
+          "relationship": {
+            "identity": 20,
+            "start": 26,
+            "end": 95,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 95,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对第三缸喷油器进行更换，安装并插接好线束后启动发动机，发动机怠速时工作平稳， 没有抖动的现象出现，灰白色烟现象消失，排气管排烟正常，用诊断议读取发动机故障，诊 断议显示无故障。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检查是不是0CV阀工作不正常导致的发动机抖动，因为进气相位的调节是由0CV阀的开启位置来实现的，当0CV阀开启位置大于50%时，进气相位提前，当OCV阀位置在100%时，进气 提前角最大。这样就使得进气门过于提前开启，部分废气进入进气管后再被吸入气缸内，如 果在怠速时出现这种情况,就会导致发动机燃烧不应，发动机抖动严重。将0CV阀拆下，观察OCV状态，发现0CV阀有卡滞现象且卡滞在100%位置前后。如图所示：换一个新的0CV 阀后，将发动机恢复再次启动发动机，发动机不再岀现抖动现象，将诊断仪进入程序把故障 码清除，清楚后故障码不再岀现。再次将发动机熄火，重新启动发现故障现象不再出现。下 图为卡滞的OCV与正常没有卡滞的OCV阀进行比较。"
+        }
+      },
+      "end": {
+        "identity": 96,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将新的ocv阀装上后，将发动机进行修复，启动发动机清除故障码，故障码不再出现发动机 不再抖动：将发动机熄火后再次启动检查故障现象不再出现。至此维修完牛。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检查是不是0CV阀工作不正常导致的发动机抖动，因为进气相位的调节是由0CV阀的开启位置来实现的，当0CV阀开启位置大于50%时，进气相位提前，当OCV阀位置在100%时，进气 提前角最大。这样就使得进气门过于提前开启，部分废气进入进气管后再被吸入气缸内，如 果在怠速时出现这种情况,就会导致发动机燃烧不应，发动机抖动严重。将0CV阀拆下，观察OCV状态，发现0CV阀有卡滞现象且卡滞在100%位置前后。如图所示：换一个新的0CV 阀后，将发动机恢复再次启动发动机，发动机不再岀现抖动现象，将诊断仪进入程序把故障 码清除，清楚后故障码不再岀现。再次将发动机熄火，重新启动发现故障现象不再出现。下 图为卡滞的OCV与正常没有卡滞的OCV阀进行比较。"
+            }
+          },
+          "relationship": {
+            "identity": 27,
+            "start": 33,
+            "end": 96,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 96,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将新的ocv阀装上后，将发动机进行修复，启动发动机清除故障码，故障码不再出现发动机 不再抖动：将发动机熄火后再次启动检查故障现象不再出现。至此维修完牛。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "对后氧传感器及ECU这段线路进行检测，用万用表的通导性检査这段线路是否导通，如图2所示。分别检测ECU的10. 20及90号针脚和后氧传感器线束间 的导通性，发现20号针脚和后氧传感器的线束不通，和调试返修人员反映，协调返修人员进行 换线朿，换过线束后重新启动发动机，将诊断仪进入清除故障码命令，清除故障码后，后氧传感 器加热故障消失。"
+        }
+      },
+      "end": {
+        "identity": 97,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将发动机主线束更换后，发动机启动后故障码清除就不再岀现，反复试验几次，故障码都 没有再岀现。发动机工作正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "对后氧传感器及ECU这段线路进行检测，用万用表的通导性检査这段线路是否导通，如图2所示。分别检测ECU的10. 20及90号针脚和后氧传感器线束间 的导通性，发现20号针脚和后氧传感器的线束不通，和调试返修人员反映，协调返修人员进行 换线朿，换过线束后重新启动发动机，将诊断仪进入清除故障码命令，清除故障码后，后氧传感 器加热故障消失。"
+            }
+          },
+          "relationship": {
+            "identity": 30,
+            "start": 35,
+            "end": 97,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 97,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将发动机主线束更换后，发动机启动后故障码清除就不再岀现，反复试验几次，故障码都 没有再岀现。发动机工作正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "检査线束端子母端发现孔偏大"
+        }
+      },
+      "end": {
+        "identity": 98,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将OCV阀上的公端端子撬一下故障排除，合格入库。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "检査线束端子母端发现孔偏大"
+            }
+          },
+          "relationship": {
+            "identity": 34,
+            "start": 38,
+            "end": 98,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 98,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将OCV阀上的公端端子撬一下故障排除，合格入库。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 42,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "可能是进气凸轮轴位置传感器检测到的信号不正确才导致此故障，但前面已对凸轮轴位置传感器及线束进行了检查，均没有问题，说明是信号轮本身有问题或者是信号轮的实际 位置与理论位置出现了误差。信号轮与凸轮轴为总成件无法更换，所以决定更换进气凸轮轴"
+        }
+      },
+      "end": {
+        "identity": 99,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将新的进气凸轮轴装上后，将发动机进行修复，启动发动机清除故障码，故障码不再出现。 再次进行检査，将发动机熄火后再次启动检査故障现象不再出现。至此，维修完毕。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 42,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "可能是进气凸轮轴位置传感器检测到的信号不正确才导致此故障，但前面已对凸轮轴位置传感器及线束进行了检查，均没有问题，说明是信号轮本身有问题或者是信号轮的实际 位置与理论位置出现了误差。信号轮与凸轮轴为总成件无法更换，所以决定更换进气凸轮轴"
+            }
+          },
+          "relationship": {
+            "identity": 39,
+            "start": 42,
+            "end": 99,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 99,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将新的进气凸轮轴装上后，将发动机进行修复，启动发动机清除故障码，故障码不再出现。 再次进行检査，将发动机熄火后再次启动检査故障现象不再出现。至此，维修完毕。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "将油门踏板踩到底再读取电子油门踏板位置传感器信号，ECU检测的油门踏板位置为 100%,踏板位置传感器#1与传感器#2分别为0%与72.24%,加速踏板位置D与E的信号 分别为0.39%与44.71%，如图（2）所示。从以上数据可以看出，踏板位置传感器#1和加速 踏板位置D的信号均不正确，正确的数据应该是：踏板位置传感器#1与位置传感器#2的数 据应该相近，而加速踏板位置D与加速踏板位置E的数据是成倍数的关系，将油门踩到底 等待二十秒钟左右后，所有数据又恢复正常，正常的车辆也会有数据滞后 的现象，但滞后时间较短，一般为5秒左右，这是因为诊断议数据采集的问题。而该车滞后 时间较长，说明该车的电子油门踏板线束或电子油门踏板可能存在问题。用万用表测量电子油门踏板线束，各线束与ECU连接正常，说明电子油门踏板的线束 没有问题，问题可能是电子油门踏板本身损坏"
+        }
+      },
+      "end": {
+        "identity": 100,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换电子油门踏板，更换后将发动机恢复，启动发动机，发动机工作正常。再将诊断 仪进入诊断程序清除故障码，清除后故障码没有再出现：再对该车辆进行路试，故障现象不 再出现。至此故障排除。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "将油门踏板踩到底再读取电子油门踏板位置传感器信号，ECU检测的油门踏板位置为 100%,踏板位置传感器#1与传感器#2分别为0%与72.24%,加速踏板位置D与E的信号 分别为0.39%与44.71%，如图（2）所示。从以上数据可以看出，踏板位置传感器#1和加速 踏板位置D的信号均不正确，正确的数据应该是：踏板位置传感器#1与位置传感器#2的数 据应该相近，而加速踏板位置D与加速踏板位置E的数据是成倍数的关系，将油门踩到底 等待二十秒钟左右后，所有数据又恢复正常，正常的车辆也会有数据滞后 的现象，但滞后时间较短，一般为5秒左右，这是因为诊断议数据采集的问题。而该车滞后 时间较长，说明该车的电子油门踏板线束或电子油门踏板可能存在问题。用万用表测量电子油门踏板线束，各线束与ECU连接正常，说明电子油门踏板的线束 没有问题，问题可能是电子油门踏板本身损坏"
+            }
+          },
+          "relationship": {
+            "identity": 43,
+            "start": 45,
+            "end": 100,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 100,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换电子油门踏板，更换后将发动机恢复，启动发动机，发动机工作正常。再将诊断 仪进入诊断程序清除故障码，清除后故障码没有再出现：再对该车辆进行路试，故障现象不 再出现。至此故障排除。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 47,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "用诊断议读取发动机进气信号，发现进气信号不正常为70KPa,正常情况为了 35KPa 左右。拆下发动机护罩，再将连接发动机电 子节气门和空气滤淸器的软管拆下。用手堵 住进气口，发动机仍能继续运转，说明发动 机进气管存在漏气现象（正常情况下，堵住 进气口发动机会熄火）。于是检查发动机进气 管，发现进气管上有明显裂痕"
+        }
+      },
+      "end": {
+        "identity": 101,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将新的进气管装上后，将发动机进行修复，启动发动机清除故障码，故障码不再岀 现。再次进行检查，将发动机熄火后再次启动检査故障现象不再岀现。至此，维修完毕。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 47,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "用诊断议读取发动机进气信号，发现进气信号不正常为70KPa,正常情况为了 35KPa 左右。拆下发动机护罩，再将连接发动机电 子节气门和空气滤淸器的软管拆下。用手堵 住进气口，发动机仍能继续运转，说明发动 机进气管存在漏气现象（正常情况下，堵住 进气口发动机会熄火）。于是检查发动机进气 管，发现进气管上有明显裂痕"
+            }
+          },
+          "relationship": {
+            "identity": 46,
+            "start": 47,
+            "end": 101,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 101,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将新的进气管装上后，将发动机进行修复，启动发动机清除故障码，故障码不再岀 现。再次进行检查，将发动机熄火后再次启动检査故障现象不再岀现。至此，维修完毕。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 53,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "可能是水泵和进水口间没有打通造成的，将节温器拆下重新检査发现水泵和进水管之间果然 没有打通，将水泵和发动机进水管间的薄壁打通，再次将发动机启动加大节气门开度一段时 间后，故障现象不再出现。"
+        }
+      },
+      "end": {
+        "identity": 102,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将发动机进行修复，启动发动机让其怠速运行多时并加大节气门开度一段时间，故 障现象不再出现：如此反复试验多次故障现象不再出现。至此，维修完毕。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 53,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "可能是水泵和进水口间没有打通造成的，将节温器拆下重新检査发现水泵和进水管之间果然 没有打通，将水泵和发动机进水管间的薄壁打通，再次将发动机启动加大节气门开度一段时 间后，故障现象不再出现。"
+            }
+          },
+          "relationship": {
+            "identity": 53,
+            "start": 53,
+            "end": 102,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 102,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将发动机进行修复，启动发动机让其怠速运行多时并加大节气门开度一段时间，故 障现象不再出现：如此反复试验多次故障现象不再出现。至此，维修完毕。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 73,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "1、进气凸轮轴OCV阀工作不良。"
+        }
+      },
+      "end": {
+        "identity": 103,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "1、检查进气凸轮轴OCV阀的工作情况，检査发现OCV阀工作正常，能正常开启和关闭， 无卡滞等不良现象。为保险起见，对OCV阀进行更换，但更换后故障未排除。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 73,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "1、进气凸轮轴OCV阀工作不良。"
+            }
+          },
+          "relationship": {
+            "identity": 65,
+            "start": 73,
+            "end": 103,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 103,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "1、检查进气凸轮轴OCV阀的工作情况，检査发现OCV阀工作正常，能正常开启和关闭， 无卡滞等不良现象。为保险起见，对OCV阀进行更换，但更换后故障未排除。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 74,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "2、电子节气门开度出现问题或不能正常开启"
+        }
+      },
+      "end": {
+        "identity": 104,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "2、\t检査电子节气门，节气门能正常开启和关闭，自学习情况良好。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 74,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "2、电子节气门开度出现问题或不能正常开启"
+            }
+          },
+          "relationship": {
+            "identity": 66,
+            "start": 74,
+            "end": 104,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 104,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "2、\t检査电子节气门，节气门能正常开启和关闭，自学习情况良好。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 75,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "3、进气系统漏气。"
+        }
+      },
+      "end": {
+        "identity": 105,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "3、\t检查进气系统的密封性，进气系统密封良好，无漏气现象。检查方法：用手堵住节气门 处进气口，如果吸力很大、进气管压力迅速下降、发动机很快熄火，说明进气系统密封良好。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 75,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "3、进气系统漏气。"
+            }
+          },
+          "relationship": {
+            "identity": 67,
+            "start": 75,
+            "end": 105,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 105,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "3、\t检查进气系统的密封性，进气系统密封良好，无漏气现象。检查方法：用手堵住节气门 处进气口，如果吸力很大、进气管压力迅速下降、发动机很快熄火，说明进气系统密封良好。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 76,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "4、\t进气压力传感器故障，输出压力失真。"
+        }
+      },
+      "end": {
+        "identity": 106,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "4、\t将该车的进气压力传感器与其它正常车的进气压力传感器进行对换，更换后故障没有排 除，而另一台工作正常，没有进气压力高的现象，说明进气压力传感器正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 76,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "4、\t进气压力传感器故障，输出压力失真。"
+            }
+          },
+          "relationship": {
+            "identity": 68,
+            "start": 76,
+            "end": 106,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 106,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "4、\t将该车的进气压力传感器与其它正常车的进气压力传感器进行对换，更换后故障没有排 除，而另一台工作正常，没有进气压力高的现象，说明进气压力传感器正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "5、\t燃油喷射系统故障"
+        }
+      },
+      "end": {
+        "identity": 107,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "5、\t用431诊断议读取氧传感器信号电压，电压值从0.1S.9V之间波动，且电压变化较快， 与正常值基本一致。正常情况为：电压值从0.1S.9V之间波动，且电压变化6次/秒。从氧传感 器信号看，发动机燃烧情况良好，且排气管排气正常。为保险起见，将排气管拆下来再启动发动 机，结果发动机故障没有明显改变，进一步说明排气管正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "5、\t燃油喷射系统故障"
+            }
+          },
+          "relationship": {
+            "identity": 69,
+            "start": 77,
+            "end": 107,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 107,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "5、\t用431诊断议读取氧传感器信号电压，电压值从0.1S.9V之间波动，且电压变化较快， 与正常值基本一致。正常情况为：电压值从0.1S.9V之间波动，且电压变化6次/秒。从氧传感 器信号看，发动机燃烧情况良好，且排气管排气正常。为保险起见，将排气管拆下来再启动发动 机，结果发动机故障没有明显改变，进一步说明排气管正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 78,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "6、点火系统故障。"
+        }
+      },
+      "end": {
+        "identity": 108,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "6、用燃油压力表测量燃油压力，测得燃油压力为350Kpa,正常值也为350Kpa，说明燃油压 力正常。将燃油导轨拆下来目测检查喷油器 的喷油情况，用启动机带动发动机运转，喷 油器能正常喷油，雾化情况良好，说明喷油 器及其电路正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 78,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "6、点火系统故障。"
+            }
+          },
+          "relationship": {
+            "identity": 70,
+            "start": 78,
+            "end": 108,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 108,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "6、用燃油压力表测量燃油压力，测得燃油压力为350Kpa,正常值也为350Kpa，说明燃油压 力正常。将燃油导轨拆下来目测检查喷油器 的喷油情况，用启动机带动发动机运转，喷 油器能正常喷油，雾化情况良好，说明喷油 器及其电路正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 79,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "7、\t排气系统堵塞导致排气不良，进气出现回气现象，进气压力过大。"
+        }
+      },
+      "end": {
+        "identity": 109,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "7、将火花塞拆下来做点火试验，火花塞 点火正常且火花塞外表颜色度良好，说明点火系统工作正常以及气缸压力 正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 79,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "7、\t排气系统堵塞导致排气不良，进气出现回气现象，进气压力过大。"
+            }
+          },
+          "relationship": {
+            "identity": 71,
+            "start": 79,
+            "end": 109,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 109,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "7、将火花塞拆下来做点火试验，火花塞 点火正常且火花塞外表颜色度良好，说明点火系统工作正常以及气缸压力 正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "8、\t进气凸轮轴本身的质量问题及其VCP调节器岀现问题。"
+        }
+      },
+      "end": {
+        "identity": 110,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "8、拆下缸盖护罩，检査进气凸轮轴及其 正时情况，未发现明显的异常情况，但为彻底 排除进气凸轮轴及其正时的问题，对进气凸轮轴和VCP调节器进行更换，在更换过程中特别注 意正时的安装情况，更换后故障依旧，说明进气凸轮轴、VCP调节器、正时机构都正常。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "8、\t进气凸轮轴本身的质量问题及其VCP调节器岀现问题。"
+            }
+          },
+          "relationship": {
+            "identity": 72,
+            "start": 80,
+            "end": 110,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 110,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "8、拆下缸盖护罩，检査进气凸轮轴及其 正时情况，未发现明显的异常情况，但为彻底 排除进气凸轮轴及其正时的问题，对进气凸轮轴和VCP调节器进行更换，在更换过程中特别注 意正时的安装情况，更换后故障依旧，说明进气凸轮轴、VCP调节器、正时机构都正常。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "9、\t曲轴信号轮位置或本身出现问题，导致曲轴位置信号失真"
+        }
+      },
+      "end": {
+        "identity": 111,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "9、对发动机曲轴正时信号轮进行验证，【曲轴位置传感器无需验证因为在启动的过程中可以 用诊断仪读岀发动机转速信号，说明曲轴位置传感器是好的。】将油底壳拆下检查曲轴正时信号 轮，发现该信号轮紧固螺栓未装配，如图（4）所示标记处，信号轮螺栓孔与曲轴上的螺栓孔位 置已经发生偏移。如图（5）所示标记处，信号轮螺栓孔处没有安装固定螺栓。【因为该信号轮紧 固螺栓未装配，导致信号轮位置发生偏差或在一个平面内有跳动情况，进而导致曲轴位置传感器 检测到的信号不准确，故而出现发动机加速无力甚至无法启动的情况】。将该信号轮用紧固螺栓 打紧，再次将发动机恢复，启动发动机验证故障现象，发动机能够正常加速，齿讯性学习也能够 正常通过。故而证明导致上述故障现象的主要原因是：曲轴位置信号轮紧固螺栓未装，该轮位置 发生偏差或在平面内跳动，曲轴位置传感器检测到的正时齿轮信号发生错误或偏差。导致ECU 接收到的信号是错误的或者是不连续的进而导致发动机点火和喷油的时刻发生偏差或者是不连 续的。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "9、\t曲轴信号轮位置或本身出现问题，导致曲轴位置信号失真"
+            }
+          },
+          "relationship": {
+            "identity": 73,
+            "start": 81,
+            "end": 111,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 111,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "9、对发动机曲轴正时信号轮进行验证，【曲轴位置传感器无需验证因为在启动的过程中可以 用诊断仪读岀发动机转速信号，说明曲轴位置传感器是好的。】将油底壳拆下检查曲轴正时信号 轮，发现该信号轮紧固螺栓未装配，如图（4）所示标记处，信号轮螺栓孔与曲轴上的螺栓孔位 置已经发生偏移。如图（5）所示标记处，信号轮螺栓孔处没有安装固定螺栓。【因为该信号轮紧 固螺栓未装配，导致信号轮位置发生偏差或在一个平面内有跳动情况，进而导致曲轴位置传感器 检测到的信号不准确，故而出现发动机加速无力甚至无法启动的情况】。将该信号轮用紧固螺栓 打紧，再次将发动机恢复，启动发动机验证故障现象，发动机能够正常加速，齿讯性学习也能够 正常通过。故而证明导致上述故障现象的主要原因是：曲轴位置信号轮紧固螺栓未装，该轮位置 发生偏差或在平面内跳动，曲轴位置传感器检测到的正时齿轮信号发生错误或偏差。导致ECU 接收到的信号是错误的或者是不连续的进而导致发动机点火和喷油的时刻发生偏差或者是不连 续的。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "10、发动机正时机构出现错误。"
+        }
+      },
+      "end": {
+        "identity": 112,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对该故障机上的曲轴正时信号轮紧固，将发动机修复，发动机启动后工作一切正常，提速迅 速，能加速到发动机最高转速。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "10、发动机正时机构出现错误。"
+            }
+          },
+          "relationship": {
+            "identity": 74,
+            "start": 82,
+            "end": 112,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 112,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对该故障机上的曲轴正时信号轮紧固，将发动机修复，发动机启动后工作一切正常，提速迅 速，能加速到发动机最高转速。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 83,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+        }
+      },
+      "end": {
+        "identity": 113,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "将该发动机上面的搭铁线拆除，然后将该发动机上而的搭铁线处处理干净，再将发 动机搭铁线装上，反复启动发动机多次，发动机间歇性不能启动的事故都未出现。至此，维修完 毕。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 83,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "原因分析：因为发动机打铁不良造成ECU不能正常供电，无法正常对主继电器进行控制，故主继 电器无法正常吸合，导致主继电器无法给喷油线束，和点火线束正常供电，导致发动机无法正常 连续启动。"
+            }
+          },
+          "relationship": {
+            "identity": 83,
+            "start": 83,
+            "end": 113,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 113,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "将该发动机上面的搭铁线拆除，然后将该发动机上而的搭铁线处处理干净，再将发 动机搭铁线装上，反复启动发动机多次，发动机间歇性不能启动的事故都未出现。至此，维修完 毕。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 62,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "将诊断仪进入发动机诊断程序，清除故障码。发动机怠速运行一段时间后故障码没有再次出 现。说明是ECU内部程序故障导致发动机无法启动。"
+        }
+      },
+      "end": {
+        "identity": 114,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对该车上的ECU进行更换，将发动机修复。发动机启动后，清除故障码，发动机怠速运行一 段时间后发动机工作正常故障码没有再次出现，再对该车辆进行路试，故障现象不再出现。至此 故障排除。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 62,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "将诊断仪进入发动机诊断程序，清除故障码。发动机怠速运行一段时间后故障码没有再次出 现。说明是ECU内部程序故障导致发动机无法启动。"
+            }
+          },
+          "relationship": {
+            "identity": 89,
+            "start": 62,
+            "end": 114,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 114,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对该车上的ECU进行更换，将发动机修复。发动机启动后，清除故障码，发动机怠速运行一 段时间后发动机工作正常故障码没有再次出现，再对该车辆进行路试，故障现象不再出现。至此 故障排除。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 65,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "再仔细査阅相关资料，发现曲轴、进气压力、油门踏板位置等传感器的供电线在ECU内 部是公用的即V5REF1,如图（3）所示。所以很可能是其中某传感器内部或线束短路，使ECU内的公用电源1没有电。逐个拔相关传感器后再测量其传感器的供电电压，如果是传感器内 部短路，拔掉传感器线束后，其短路现象就会消除。当拔掉进气压力传感器线束时，各传感 器的供电电压都恢复正常为5V,再次插上进气压力传感器线束后，各传感器的电压再次变为 0V,到此可以判定，该故障是进气压力传感器内部短路导致的。于是拔掉进气压力传感器线 束，启动发动机（因为进气压力传感器不影响发动机启动），发动机能顺利启动，用诊断议读 取发动机故障码，故障码显示P0107进气压力传感器线路低电压或断路，这是传感器线束拔 掉了所致的故障。再用万用表测量传感器电源端子与搭铁端子间的电阻，电阻值只有0.5欧 姆，说明传感器内已经短路。"
+        }
+      },
+      "end": {
+        "identity": 115,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对进气压力传感器进行更换，连接好各传感器线束后启动发动机，这时发动机能顺利启 动，用诊断议读取发动机故障，诊断议显示无故障。再对该车辆进行路试，故障现象不再出 现。至此故障排除。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 65,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "再仔细査阅相关资料，发现曲轴、进气压力、油门踏板位置等传感器的供电线在ECU内 部是公用的即V5REF1,如图（3）所示。所以很可能是其中某传感器内部或线束短路，使ECU内的公用电源1没有电。逐个拔相关传感器后再测量其传感器的供电电压，如果是传感器内 部短路，拔掉传感器线束后，其短路现象就会消除。当拔掉进气压力传感器线束时，各传感 器的供电电压都恢复正常为5V,再次插上进气压力传感器线束后，各传感器的电压再次变为 0V,到此可以判定，该故障是进气压力传感器内部短路导致的。于是拔掉进气压力传感器线 束，启动发动机（因为进气压力传感器不影响发动机启动），发动机能顺利启动，用诊断议读 取发动机故障码，故障码显示P0107进气压力传感器线路低电压或断路，这是传感器线束拔 掉了所致的故障。再用万用表测量传感器电源端子与搭铁端子间的电阻，电阻值只有0.5欧 姆，说明传感器内已经短路。"
+            }
+          },
+          "relationship": {
+            "identity": 95,
+            "start": 65,
+            "end": 115,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 115,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对进气压力传感器进行更换，连接好各传感器线束后启动发动机，这时发动机能顺利启 动，用诊断议读取发动机故障，诊断议显示无故障。再对该车辆进行路试，故障现象不再出 现。至此故障排除。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 88,
+        "labels": [
+          "condition"
+        ],
+        "properties": {
+          "name": "电子节气门位置传感器输出的电压正常，但ECU接反到的却是颠倒的电压信号，说明信 号传输过程出现了问题。于是检査线束的状态，在检査过程中发现电子节气门位置传感器线 束端子颠倒，也就是位置传感器1端子与位置传感器2端子颠倒，导致信号传输颠倒，使发 动机无法启动"
+        }
+      },
+      "end": {
+        "identity": 116,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对线束进行返修，将两信号端子进行对调。返修后发动机能顺利启动，用诊断议读取发 动机故障，诊断议显示无故障。再对该车辆进行路试，故障现象不再出现。至此故障排除。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 88,
+            "labels": [
+              "condition"
+            ],
+            "properties": {
+              "name": "电子节气门位置传感器输出的电压正常，但ECU接反到的却是颠倒的电压信号，说明信 号传输过程出现了问题。于是检査线束的状态，在检査过程中发现电子节气门位置传感器线 束端子颠倒，也就是位置传感器1端子与位置传感器2端子颠倒，导致信号传输颠倒，使发 动机无法启动"
+            }
+          },
+          "relationship": {
+            "identity": 105,
+            "start": 88,
+            "end": 116,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 116,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对线束进行返修，将两信号端子进行对调。返修后发动机能顺利启动，用诊断议读取发 动机故障，诊断议显示无故障。再对该车辆进行路试，故障现象不再出现。至此故障排除。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "1、\t拆下发动机上的动力转向泵皮带再进行试车，异响声音没有变化：2、\t拆下发动机上的发电机皮带后再进行试车，发现异响声音消失，再将发电机皮带装上以后, 异响声音再次出现，说明该异响声音与发电机皮带以及该皮带所带的相关部件有关：3、\t检查该皮带所带的相关部件，没有发现明显的异常情况，于是决定从简单的入手逐个排査。4、\t更换发电机皮带，更换后异响声音消失，说明是发电机皮带、皮带张紧力、皮带轮等因素导 致的异响。首先将旧的发电机皮带再次安装上进行试验，结果发现异响声音也随之消失。由此分 析：发电机带和皮带轮都没有变化，唯一改变的就是在安装旧皮带时皮带张紧力发生了变化。5、\t于是对皮带张紧力重新进行调节，减小张紧力后再进行试车发现异响声音再次出现，说明该 响声与皮带张紧力有关系。用皮带张力器测量皮带张力，看张力小于多少时会发出该响声，验证 发现，当张力小于350N. m时就会发出响声。6、\t同样的张紧力在别的机型上都没有问题，如4GA发动机皮带张力小于250 N.m时都不会发出响 声，可能和皮带轮有一定的关系，于是将水泵皮带轮进行更换，更换后皮带张紧力小于350N. m 时声音正常，没有异响声发出。从以上故障的排除情况来看，此异响可能是皮带与皮带轮之间的 配合出现了问题。"
+        }
+      },
+      "end": {
+        "identity": 117,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "在实际的故障排除过程中，加大皮带张紧力、更换新皮带、更换水泵皮带轮等措施可以消除 异响声音，使用什么方法去排除故障，视具体情况而定。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "1、\t拆下发动机上的动力转向泵皮带再进行试车，异响声音没有变化：2、\t拆下发动机上的发电机皮带后再进行试车，发现异响声音消失，再将发电机皮带装上以后, 异响声音再次出现，说明该异响声音与发电机皮带以及该皮带所带的相关部件有关：3、\t检查该皮带所带的相关部件，没有发现明显的异常情况，于是决定从简单的入手逐个排査。4、\t更换发电机皮带，更换后异响声音消失，说明是发电机皮带、皮带张紧力、皮带轮等因素导 致的异响。首先将旧的发电机皮带再次安装上进行试验，结果发现异响声音也随之消失。由此分 析：发电机带和皮带轮都没有变化，唯一改变的就是在安装旧皮带时皮带张紧力发生了变化。5、\t于是对皮带张紧力重新进行调节，减小张紧力后再进行试车发现异响声音再次出现，说明该 响声与皮带张紧力有关系。用皮带张力器测量皮带张力，看张力小于多少时会发出该响声，验证 发现，当张力小于350N. m时就会发出响声。6、\t同样的张紧力在别的机型上都没有问题，如4GA发动机皮带张力小于250 N.m时都不会发出响 声，可能和皮带轮有一定的关系，于是将水泵皮带轮进行更换，更换后皮带张紧力小于350N. m 时声音正常，没有异响声发出。从以上故障的排除情况来看，此异响可能是皮带与皮带轮之间的 配合出现了问题。"
+            }
+          },
+          "relationship": {
+            "identity": 108,
+            "start": 68,
+            "end": 117,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 117,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "在实际的故障排除过程中，加大皮带张紧力、更换新皮带、更换水泵皮带轮等措施可以消除 异响声音，使用什么方法去排除故障，视具体情况而定。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 69,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "因为发动机在怠速运行时发出类似喷油器开闭声音的异响声，针对此故障现象进行判缸试 验，将四个紅的喷油器线束依次拔下，当将第一缸的喷油器线束拔下时发现异响声明显减小。于 是对油压导轨和喷油器进行更换，更换后发现故障现象依旧，排除异响声是由喷油器发出的。再 次对故障现象进行分析，因为将第一缸喷油器线束拔下后发动机异响声明显减小，说明该异响声 与第一紅的燃烧情况有一定的关系即有可能是第一缸燃烧时发动机的声音。进一步分析，喷油器 及燃油导轨己经更换，可以排除燃油系统故障。若点火线圏点火不良也会导致发动机燃烧情况恶化，导致发动机异响，更换点火线圏及火花塞等点火系统组件后故障现象依旧，排除异响声是由 点火系统点火不良造成的。"
+        }
+      },
+      "end": {
+        "identity": 118,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "对该车上的排气管进行更换，将发动机修复。将发动机启动，发动机怠速运行一段时 间后发动机工作正常故障现象没有再次出现，再对该车辆进行路试，故障现象不再出现。"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 69,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "因为发动机在怠速运行时发出类似喷油器开闭声音的异响声，针对此故障现象进行判缸试 验，将四个紅的喷油器线束依次拔下，当将第一缸的喷油器线束拔下时发现异响声明显减小。于 是对油压导轨和喷油器进行更换，更换后发现故障现象依旧，排除异响声是由喷油器发出的。再 次对故障现象进行分析，因为将第一缸喷油器线束拔下后发动机异响声明显减小，说明该异响声 与第一紅的燃烧情况有一定的关系即有可能是第一缸燃烧时发动机的声音。进一步分析，喷油器 及燃油导轨己经更换，可以排除燃油系统故障。若点火线圏点火不良也会导致发动机燃烧情况恶化，导致发动机异响，更换点火线圏及火花塞等点火系统组件后故障现象依旧，排除异响声是由 点火系统点火不良造成的。"
+            }
+          },
+          "relationship": {
+            "identity": 111,
+            "start": 69,
+            "end": 118,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 118,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "对该车上的排气管进行更换，将发动机修复。将发动机启动，发动机怠速运行一段时 间后发动机工作正常故障现象没有再次出现，再对该车辆进行路试，故障现象不再出现。"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "analyze"
+        ],
+        "properties": {
+          "name": "轴瓦完好无拉瓦现象说明不是因为缺少机油而导致发动机拉紅，从气紅及活塞拉痕来看，可能是 活塞环断裂所至。后检査活塞时发现，活塞环油环的下刮片已经断裂，并且有部分碎片粘连在活 塞表面。活塞环断裂后碎片就会错位，可能卡在活塞环槽内或粘连在活塞表面，活塞上下运动的过程 中，带动活塞环碎片上下运动，导致气缸及活塞拉伤，有部分碎片可能会伴随活塞运动进入气紅， 从而导致活塞头部及缸盖表而被撞击，产生撞击痕迹。该车在上完牌照后就发现有异响，车主反应在上牌前没怎么用，所以也没有注意发动机声音，车主反应发动机异响时，行驶里程只有90KM,所以该车出厂前活塞环可能已经断裂.在安装活环时，油环是第一个被压入气缸内的，因此油环在压入的过程中活塞的导向性较差易歪斜，这样油环压入时的冲击力最大，随着活塞的逐渐压入，其导向性也随之加强，第二道气环压入时的冲击力也会减小，同理第一道气环的冲击力最小，所以，该发动机可能是在安装活塞时活塞环就已经产生了裂纹或者是活塞环本身就有裂纹."
+        }
+      },
+      "end": {
+        "identity": 119,
+        "labels": [
+          "solve"
+        ],
+        "properties": {
+          "name": "更换发动机总成"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "analyze"
+            ],
+            "properties": {
+              "name": "轴瓦完好无拉瓦现象说明不是因为缺少机油而导致发动机拉紅，从气紅及活塞拉痕来看，可能是 活塞环断裂所至。后检査活塞时发现，活塞环油环的下刮片已经断裂，并且有部分碎片粘连在活 塞表面。活塞环断裂后碎片就会错位，可能卡在活塞环槽内或粘连在活塞表面，活塞上下运动的过程 中，带动活塞环碎片上下运动，导致气缸及活塞拉伤，有部分碎片可能会伴随活塞运动进入气紅， 从而导致活塞头部及缸盖表而被撞击，产生撞击痕迹。该车在上完牌照后就发现有异响，车主反应在上牌前没怎么用，所以也没有注意发动机声音，车主反应发动机异响时，行驶里程只有90KM,所以该车出厂前活塞环可能已经断裂.在安装活环时，油环是第一个被压入气缸内的，因此油环在压入的过程中活塞的导向性较差易歪斜，这样油环压入时的冲击力最大，随着活塞的逐渐压入，其导向性也随之加强，第二道气环压入时的冲击力也会减小，同理第一道气环的冲击力最小，所以，该发动机可能是在安装活塞时活塞环就已经产生了裂纹或者是活塞环本身就有裂纹."
+            }
+          },
+          "relationship": {
+            "identity": 114,
+            "start": 72,
+            "end": 119,
+            "type": "workout",
+            "properties": {
+              "name": "解决方案"
+            }
+          },
+          "end": {
+            "identity": 119,
+            "labels": [
+              "solve"
+            ],
+            "properties": {
+              "name": "更换发动机总成"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]
